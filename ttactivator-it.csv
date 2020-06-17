@@ -1,0 +1,209 @@
+Browse,Sfoglia
+Refresh,Aggiorna
+Activate,Attiva
+File Name,Nome file
+Content Name,Nome contenuto
+Content Type,Tipo contenuto
+Status,Stato
+Installed Content,Contenuto installato
+Patch Navcore (PNDNavigator/ttsystem),Patch Navcore (PNDNavigator/ttsystem)
+Create Meta from Installed Content,Crea meta da contenuto installato
+Update Meta,Aggiorna meta
+Tools,Strumenti
+Update QuickGPSFix,Aggiorna QuickGPSFix
+GPS Chipset:,Chipset GPS:
+QuickGPSFix,QuickGPSFix
+Help,Aiuto
+Auto-Extract,Esstrazione automatica
+Download To Device,Download nel dispositivo
+Download To Folder,Download in una cartella
+Temporary Download Folder:,Cartella temporanea:
+"Map Country/Region (select from list or enter manually, case-sensitive):","Mappa nazione/regione (seleziona da elenco o manualmente, attenzione a maiuscole/minuscole):"
+Map Version:,Versione mappa:
+Map Kind/Generation:,Tipo/generazione mappa:
+Map Downloader,Mappe
+Manual Install,Installazione manuale
+Easy/Automatic Install,Installazione facilitata/automatica
+Special thanks to the Maverick,Un grazie speciale a Maverick
+Use Premium Cameras (where possible),Usa telecamere Premium (dove possibile)
+Safety Cam Downloader,Telecamere sorveglianza
+Install Postcodes/Zipcodes,Installa codici postali/CAP
+Singapore,Singapore
+Great Britain,Gran Bretagna
+Netherlands,Paesi Bassi
+Postcodes,Codici postali
+Custom/Unknown Traffic Providers:,Provider traffico personali/sconosciuti:
+Known Traffic Providers:,Provider traffico conosciuti:
+TX02 (Marigot) - for Carminat,TX02 (Marigot) - per Carminat
+TX01 (Default) - for most devices,TX01 (predefinito) - per la maggior parte dei dispositivi
+CC,CC
+LTN,LTN
+SID,SID
+ETI,ETI
+ETO,ETO
+Name,Nome
+Country,Nazione
+Add Custom Provider (Advanced),Aggiungi provider personale (avanzate)
+Save As...,Salva come...
+Enable/Disable All Providers,Abilita/disabilita tutti i provider
+Install To Device,Installa nel dispositivo
+RDS-TMC,RDS-TMC
+Source:,Dispositivo:
+TTActivator,TTActivator
+Change TTActivator Language,Modifica lingua TTActivator
+Paid,Pagato
+NAV3 Tools,Strumenti NAV3
+Install Patch,Installa patch
+Uninstall Patch,Disinstalla patch
+Reboot Device,Riavvia il dispositivo
+Upload Meta To Device,Carica meta nel dispositivo
+Install TT Package Files,Installa file pacchetto TT
+Delete Maps from Internal Memory,Elimina mappe dalla memoria interna
+Device Storage Usage,Uso memoria dispositivo
+Internal Memory:,Memoria interna:
+SD Card:,Scheda SD:
+Special thanks to MSTMS team.,Un ringraziamento speciale alla squadra MSTMS.
+Standard (MSTMS):,Standard (MSTMS):
+Truck (MSTMS Truck):,Truck (MSTMS Truck):
+Install Standard Patch,Installa patch Standard
+Install Truck Patch,Installa patch Truck
+For navcore 7.8x devices and above (cspeech/ASR/TTS/vocalizer only),Per dispositivi con navcore 7.8x e successivi (solo cspeech/ASR/TTS/voci)
+For navcore 7.8x devices and above (none included),Per dispositivi con navcore 7.8x e successivi (nessuna opzione)
+For navcore 7.8x devices and above (TTS only),Per dispositivi con navcore 7.8x e successivi (solo TTS)
+For navcore 8.2x devices and above (IQroutes/ALG/TTS/vocalizer only),Per dispositivi con navcore 8.2.x e successivi (solo IQroutes/ALG/TTS/voci)
+For navcore 9.x devices,Per dispositivi con navcore 9.x
+For navcore 9.x devices (no ASR),Per dispositivi con navcore 9.x (no ASR)
+For truck navcore 9.x devices,Per dispositivi con navcore 9.x Truck
+For NAV3 and navcore 9.x devices,Per dispositivi NAV3 e navcore 9.x
+For Mazda NB1 and navcore 9.x devices,Per dispositivi Mazda NB1 e navcore 9.x
+For NAV3 and navcore 9.x devices (no ASR),Per dispositivi NAV3 e navcore 9.x (no ASR)
+For Renault R-Link and navcore 9.x devices,Per dispositivi R-LINk e navcore 9.x
+"A new version of TTActivator ({0}) is available, would you like to update now?",È disponibile una nuova versione ({0}) di TTActivator. Vuoi aggiornare ora TTActivator?
+"An error occurred while downloading the update:
+{0}","Si è verificato un errore durante il download dell'aggiornamento:
+{0}"
+"TTActivator has downloaded the latest version to:
+{0}
+
+Please close TTActivator and then extract/replace the old version.","TTActivator ha scaricato la versione aggiornata in:
+{0}
+
+Chiudi TTActivator ed estrai/sostituisci i file della vecchia versione."
+QuickGPSFix Expiry: ,Scadenza QuickGPSFix: 
+GPS Chipset,Chipset GPS
+Activated,Attivato
+Not Activated,Non attivato/a
+Missing Meta/Blowfish,Meta/blowfish mancante
+No Activation Needed,Nessuna attivazione necessaria
+Please wait...,Attendi...
+QuickGPSFix files updated successfully!,Aggiornamento file QuickGPSFix completato!
+"An error occurred while downloading or installing the QuickGPSFix files.
+
+{0}","Si è verificato un errore durante il download o l'installazione dei file di QuickGPSFix.
+
+{0}"
+Update QuickGPSFix,Aggiorna QuickGPSFix
+The meta code specified for this content {0}is not correct.,Il codice meta specificato per il contenuto {0}non è corretto-
+"An error occurred while activating '{0}':
+
+{1}","Si è verificato un errore durante l'attivazione di '{0}':
+
+{1}"
+{0} item(s) activated successfully!,{0} elemento/i attivato/i correttamente!
+Navcore has been patched successfully!,Patch navcore completato!
+"Navcore patch failed, it might already be patched!",Patch navcore fallito. Potrebbe essere già patchato!
+"An error occurred during patching:
+
+{0}","Si è verificato un errore durante il patch del navcore:
+
+{0}"
+Meta has been updated successfully!,Aggiornamento file meta completato!
+An unknown error occurred while updating meta.,Si è verificato un errore sconosciuto durante l'aggiornamento del meta.
+"An error occurred while downloading the selected map.
+
+{0}","Si è verificato un errore durante il download della mappa selezionata.
+
+{0}"
+"
+
+Also, remember to go to 'Installed Content' and activate the new map.","
+
+Ricordati di andare in 'Contenuto installato' e attivare la nuova mappa.
+"
+"Obtaining links for selected map, please wait...",Recupero collegamento download mappa selezionata…
+An error occurred while downloading the selected map. Ensure you are connected to the internet and that the map configuration you have chosen is valid.,"Si è verificato un errore durante il download della mappa selezionata. 
+Assicurati di essere connesso ad internet e che la configurazione della mappa sia valida."
+{0} v{1} ({2}) requires {3} of space. {4}. Do you wish to continue?,{0} v{1} ({2}) richiede {3} di spazio libero. {4}. Vuoi continuare?
+"Also, this map currently does not have a meta code available and cannot be activated in TTActivator",Questa mappa non ha attualmente un codice meta disponibile e non può essere attivata in TTActivator
+"If you intend to activate this map, make sure a meta code for it exists",Se vuoi atttivare questa mappa assicurati che esista il corrispondente codice meta
+"Also, good news, TTActivator is able to activate this map",Buone notizie. TTActivator può attivare questa mappa
+"Map has been successfully downloaded:
+
+",Download mappa completato:
+Map has been successfully downloaded: {0}{1},Download mappa completato: {0}{1}
+"Extracting, please wait...",Estrazione...
+Downloading,Download
+"TTActivator was unable to recognise the following maps, they may require manual installation of safety cameras:
+ - {0}","TTActivator non ha riconosciuto le seguenti mappe, che potrebbero richiedere una installazione manuale dei file delle telecamere di sorveglianza:
+ - {0}"
+An error occurred while downloading the safety cameras: {0},Si è verificato un errore durante il download del file delle telecamere di sorveglianza: {0}
+All safety cameras have been successfully installed and activated.,Tutte le telecamere di sorveglianza sono state installate ed attivate.
+"Safety cameras have been downloaded, please manually extract the files to the matching map folders and activate using TTActivator.
+
+","Download file telecamere sorveglianza completato. Estrai manualmente i file nella cartella mappa corrispondente e attivali usando TTActivator.
+
+"
+Select the folder for the TT device:,Seleziona la cartella del dispositivo TomTom:
+Are you sure you want to disable auto-extract? This means that downloaded maps will stay as a *.zip or *.ttpkg file.,Sei sicuro di voler disabilitare l'estrazione automatica? Questo significa che le mappe scaricate rimarranno come file *.zip o *.ttpkg.
+An error occurred while downloading the zipcodes. Ensure you are connected to the internet and that the map version entered is valid.,Si è verificato un errore durante il download del file dei codici postali. Assicurati di essere connesso ad internet e che la versione mappa sia corretta.
+Postcode files have been installed successfully!,Installazione file codici postali completata!
+An error occurred while downloading or installing the postcode files.,Si è verificato un errore durante il download o l'installazione dei file dei codici postali.
+RDS-TMC configuration installed successfully!,Installazione configurazione RDS-TMC completata!
+An error occurred while saving the RDS-TMC configuration.,Si è verificato un errore durante il salvataggio della configurazione RDS_TMC.
+RDS-TMC configuration saved successfully!,Salvataggio configurazione RDS-TMC completato!
+{0} item(s) available for activation.,{0} elemento/i disponibile/i per l'attivazione.
+Can't be activated because blowfish/meta is code missing.,Attivazione non possibile poiché il codice blowfish non esiste.
+Equivalent Meta Available,Meta equivalente disponibile
+Unable to obtain the latest QuickGPSFix files from the TomTom server.,Impossibile ottenere i file QuickGPSFix più recenti dal server TomTom.
+QuickGPSFix files have installed successfully!,Installazione file QuickGPSfix completata!
+Select a folder to download the safety cameras to:,Seleziona cartella in cui scaricare le telecanere sorveglianza:
+All safety cameras have been successfully downloaded.,Downlaod completato di tutte le telecamere di sorveglianza.
+Your device has an unsupported navcore version. You must have one of the following versions installed:,Il dispositivo dispone di una versione navcore non supportata. È necessario disporre di una delle seguenti versioni installate:
+"Connecting to device, please wait...",Connessione al dispositivo...
+Could not establish a connection to the device. Make sure that it is connected to your PC.,Impossibile stabilire una connessione con il dispositivo. Assicurati che sia collegato al PC.
+The following processes are connected to the device. Please close them before continuing:,I seguenti processi sono collegati al dispositivo. Prima di continuare chiudi questi processi:
+"Triggering device, please wait...",Attivazione dispositivo...
+The device did not respond to the trigger in a timely manner. Please check your device connection.,Il dispositivo non ha risposto in modo tempestivo. Verifica la connessione del dispositivo.
+"Job list has been uploaded to the device, waiting for files to be requested...",Elenco attività caricato nel dispositivo. In attesa delle richieste di file...
+<Unknown>,<Sconosciuto>
+Uploading:,Upload:
+Installing:,Installazione:
+"Jobs have completed, waiting for device to finish everything...",Attività completata. In attesa del dispositivo per il completamento...
+"Validating packages, please wait...",Convalida dei pacchetti...
+The following packages appear to be corrupted and are likely to fail during installation. Do you want to continue anyway? (not recommended),I seguenti pacchetti sembrano essere danneggiati e potrebbero far fallire l'installazione. Vuoi continuare comunque (non consigliato)?
+"The following packages appear to be incomplete. If multiple parts exist, please make sure to select all of them together at the same time. Do you want to continue anyway? (not recommended)","I seguenti pacchetti sembrano essere incompleti. Se esistono più parti, assicurati di selezionarle tutte nello stesso momento. Vuoi continuare comunque (non consigliato)?"
+There is not enough space present on the device to install the specified content.,Spazio libero insufficiente nel dispositivo per installare il contenuto specificato.
+The following packages caused an error:,I seguenti pacchetti hanno causato un errore:
+Message:,Messaggio:
+The device reports that only {0} of free space is available.,Il dispositivo ha solo {0} di spazio libero.
+An unexpected error occurred while preparing the package files.,Si è verificato un errore imprevisto durante la preparazione i file del pacchetto.
+Please make sure the files are not in use by another program.,Assicurati che i file non sono in uso in un altro programma.
+Please make sure that your internet connection is working properly.,Assicurati che la connessione Internet funziona correttamente.
+The patch has been installed successfully.,La patch è stata installata correttamente.
+The patch has been removed from the device.,La patch è stata rimossa dal dispositivo.
+The maps have been removed from the device's internal memory.,Le mappe sono state eliminate dalla memoria interna del dispositivo.
+The map kind/generation you have selected is not compatible with this device.,La mappa tipo/generazione selezionata non è compatibile con questo dispositivo.
+The map has been successfully installed to the device.,Installazione mappa nel dispositivo completata.
+The temporary files for this map are still present on the machine. Do you want to keep them to attempt re-installation later?,I file temporanei per questa mappa sono ancora presenti nel computer. Vuoi tenerli per tentare una nuova installazione in seguito?
+This will delete all maps stored in your device's internal memory along with the navcore patch. You will need to reapply the patch again afterwards. Are you sure you wish to continue?,Questo cancellerà tutte le mappe memorizzate nella memoria interna del dispositivo insieme con la patch navcore. Sarà necessario riapplicare la patch di nuovo in seguito. Sei sicuro di voler continuare?
+All safety cameras have been successfully installed.,Tutti i file autovelox sono stati installati correttamente.
+Remember to upload the latest meta and then reboot your device from the 'NAV3 Tools' menu to automatically activate the map.,Per attivare automaticamente la mappa ricorda di caricare il file meta aggiornato e quindi riavviare il dispositivo dal menu 'Strumenti NAV3'.
+Meta has been uploaded successfully to the device.,Caricamento file meta nel dispositivo completato.
+The standard patch activates content each time the device is rebooted using a built-in keygen. All that is required is an up-to-date meta file to be uploaded to the device.,La patch 'Standard' attiva il contenuto ogni volta che il dispositivo viene riavviato mediante un generatore di chiave incorporato. Tutto ciò che serve è una file meta aggiornato e caricato nel dispositivo.
+"The truck patch is the same as the standard patch, but it will also unlock heavy vehicle types such as truck or bus when using a TRUCK map.","La patch 'Truck' è la stessa della patch 'Standard', ma potrà sbloccare anche tipi di veicoli pesanti come camion o autobus quando si utilizza una mappa Truck."
+TTActivator could not start the local server. Please accept the 'User Account Control' prompt or run TTActivator as an administrator.,"TTActivator non ha potuto avviare il server locale. Accetta la finestra di dialogo nel PC """"Controllo dell'account utente"""" o esegui TTActivator come amministratore."
+RDS-TMC Configuration,Configurazione RDS-TMC
+Expired,Scaduto
+No safety cameras could be found from the TT server.,Nessuna telecamera di sorveglianza trovata nel server TomTom.
+This will delete all safety cameras (including licenses) from your device's internal memory. Do you wish to continue?,Ciò eliminerà tutte le telecamere di sorveglianza (comprese le licenze) dalla memoria interna del dispositivo. Vuoi continuare?
+The safety cameras have been removed from the device's internal memory.,Le telecamere di sorveglianza sono state rimosse dalla memoria interna del dispositivo.

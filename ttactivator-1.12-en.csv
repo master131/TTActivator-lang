@@ -1,0 +1,209 @@
+﻿Browse,Browse
+Refresh,Refresh
+Activate,Activate
+File Name,File Name
+Content Name,Content Name
+Content Type,Content Type
+Status,Status
+Installed Content,Installed Content
+Patch Navcore (PNDNavigator/ttsystem),Patch Navcore (PNDNavigator/ttsystem)
+Create Meta from Installed Content,Create Meta from Installed Content
+Update Meta,Update Meta
+Tools,Tools
+Update QuickGPSFix,Update QuickGPSFix
+GPS Chipset:,GPS Chipset:
+QuickGPSFix,QuickGPSFix
+Help,Help
+Auto-Extract,Auto-Extract
+Download To Device,Download To Device
+Download To Folder,Download To Folder
+Temporary Download Folder:,Temporary Download Folder:
+"Map Country/Region (select from list or enter manually, case-sensitive):","Map Country/Region (select from list or enter manually, case-sensitive):"
+Map Version:,Map Version:
+Map Kind/Generation:,Map Kind/Generation:
+Map Downloader,Map Downloader
+Manual Install,Manual Install
+Easy/Automatic Install,Easy/Automatic Install
+Special thanks to the Maverick,Special thanks to the Maverick
+Use Premium Cameras (where possible),Use Premium Cameras (where possible)
+Safety Cam Downloader,Safety Cam Downloader
+Install Postcodes/Zipcodes,Install Postcodes/Zipcodes
+Singapore,Singapore
+Great Britain,Great Britain
+Netherlands,Netherlands
+Postcodes,Postcodes
+Custom/Unknown Traffic Providers:,Custom/Unknown Traffic Providers:
+Known Traffic Providers:,Known Traffic Providers:
+TX02 (Marigot) - for Carminat,TX02 (Marigot) - for Carminat
+TX01 (Default) - for most devices,TX01 (Default) - for most devices
+CC,CC
+LTN,LTN
+SID,SID
+ETI,ETI
+ETO,ETO
+Name,Name
+Country,Country
+Add Custom Provider (Advanced),Add Custom Provider (Advanced)
+Save As...,Save As...
+Enable/Disable All Providers,Enable/Disable All Providers
+Install To Device,Install To Device
+RDS-TMC,RDS-TMC
+Source:,Source:
+TTActivator,TTActivator
+Change TTActivator Language,Change TTActivator Language
+Paid,Paid
+NAV3 Tools,NAV3 Tools
+Install Patch,Install Patch
+Uninstall Patch,Uninstall Patch
+Reboot Device,Reboot Device
+Upload Meta To Device,Upload Meta To Device
+Install TT Package Files,Install TT Package Files
+Delete Maps from Internal Memory,Delete Maps from Internal Memory
+Device Storage Usage,Device Storage Usage
+Internal Memory:,Internal Memory:
+SD Card:,SD Card:
+Special thanks to MSTMS team.,Special thanks to MSTMS team.
+Standard (MSTMS):,Standard (MSTMS):
+Truck (MSTMS Truck):,Truck (MSTMS Truck):
+Install Standard Patch,Install Standard Patch
+Install Truck Patch,Install Truck Patch
+For navcore 7.8x devices and above (cspeech/ASR/TTS/vocalizer only),For navcore 7.8x devices and above (cspeech/ASR/TTS/vocalizer only)
+For navcore 7.8x devices and above (none included),For navcore 7.8x devices and above (none included)
+For navcore 7.8x devices and above (TTS only),For navcore 7.8x devices and above (TTS only)
+For navcore 8.2x devices and above (IQroutes/ALG/TTS/vocalizer only),For navcore 8.2x devices and above (IQroutes/ALG/TTS/vocalizer only)
+For navcore 9.x devices,For navcore 9.x devices
+For navcore 9.x devices (no ASR),For navcore 9.x devices (no ASR)
+For truck navcore 9.x devices,For truck navcore 9.x devices
+For NAV3 and navcore 9.x devices,For NAV3 and navcore 9.x devices
+For Mazda NB1 and navcore 9.x devices,For Mazda NB1 and navcore 9.x devices
+For NAV3 and navcore 9.x devices (no ASR),For NAV3 and navcore 9.x devices (no ASR)
+For Renault R-Link and navcore 9.x devices,For Renault R-Link and navcore 9.x devices
+"A new version of TTActivator ({0}) is available, would you like to update now?","A new version of TTActivator ({0}) is available, would you like to update now?"
+"An error occurred while downloading the update:
+{0}","An error occurred while downloading the update:
+{0}"
+"TTActivator has downloaded the latest version to:
+{0}
+
+Please close TTActivator and then extract/replace the old version.","TTActivator has downloaded the latest version to:
+{0}
+
+Please close TTActivator and then extract/replace the old version."
+QuickGPSFix Expiry: ,QuickGPSFix Expiry: 
+GPS Chipset,GPS Chipset
+Activated,Activated
+Not Activated,Not Activated
+Missing Meta/Blowfish,Missing Meta/Blowfish
+No Activation Needed,No Activation Needed
+Please wait...,Please wait...
+QuickGPSFix files updated successfully!,QuickGPSFix files updated successfully!
+"An error occurred while downloading or installing the QuickGPSFix files.
+
+{0}","An error occurred while downloading or installing the QuickGPSFix files.
+
+{0}"
+Update QuickGPSFix,Update QuickGPSFix
+The meta code specified for this content {0}is not correct.,The meta code specified for this content {0}is not correct.
+"An error occurred while activating '{0}':
+
+{1}","An error occurred while activating '{0}':
+
+{1}"
+{0} item(s) activated successfully!,{0} item(s) activated successfully!
+Navcore has been patched successfully!,Navcore has been patched successfully!
+"Navcore patch failed, it might already be patched!","Navcore patch failed, it might already be patched!"
+"An error occurred during patching:
+
+{0}","An error occurred during patching:
+
+{0}"
+Meta has been updated successfully!,Meta has been updated successfully!
+An unknown error occurred while updating meta.,An unknown error occurred while updating meta.
+"An error occurred while downloading the selected map.
+
+{0}","An error occurred while downloading the selected map.
+
+{0}"
+"
+
+Also, remember to go to 'Installed Content' and activate the new map.","
+
+Also, remember to go to 'Installed Content' and activate the new map."
+"Obtaining links for selected map, please wait...","Obtaining links for selected map, please wait..."
+An error occurred while downloading the selected map. Ensure you are connected to the internet and that the map configuration you have chosen is valid.,An error occurred while downloading the selected map. Ensure you are connected to the internet and that the map configuration you have chosen is valid.
+{0} v{1} ({2}) requires {3} of space. {4}. Do you wish to continue?,{0} v{1} ({2}) requires {3} of space. {4}. Do you wish to continue?
+"Also, this map currently does not have a meta code available and cannot be activated in TTActivator","Also, this map currently does not have a meta code available and cannot be activated in TTActivator"
+"If you intend to activate this map, make sure a meta code for it exists","If you intend to activate this map, make sure a meta code for it exists"
+"Also, good news, TTActivator is able to activate this map","Also, good news, TTActivator is able to activate this map"
+"Map has been successfully downloaded:
+
+","Map has been successfully downloaded:
+
+"
+Map has been successfully downloaded: {0}{1},Map has been successfully downloaded: {0}{1}
+"Extracting, please wait...","Extracting, please wait..."
+Downloading,Downloading
+"TTActivator was unable to recognise the following maps, they may require manual installation of safety cameras:
+ - {0}","TTActivator was unable to recognise the following maps, they may require manual installation of safety cameras:
+ - {0}"
+An error occurred while downloading the safety cameras: {0},An error occurred while downloading the safety cameras: {0}
+All safety cameras have been successfully installed and activated.,All safety cameras have been successfully installed and activated.
+"Safety cameras have been downloaded, please manually extract the files to the matching map folders and activate using TTActivator.
+
+","Safety cameras have been downloaded, please manually extract the files to the matching map folders and activate using TTActivator.
+
+"
+Select the folder for the TT device:,Select the folder for the TT device:
+Are you sure you want to disable auto-extract? This means that downloaded maps will stay as a *.zip or *.ttpkg file.,Are you sure you want to disable auto-extract? This means that downloaded maps will stay as a *.zip or *.ttpkg file.
+An error occurred while downloading the zipcodes. Ensure you are connected to the internet and that the map version entered is valid.,An error occurred while downloading the zipcodes. Ensure you are connected to the internet and that the map version entered is valid.
+Postcode files have been installed successfully!,Postcode files have been installed successfully!
+An error occurred while downloading or installing the postcode files.,An error occurred while downloading or installing the postcode files.
+RDS-TMC configuration installed successfully!,RDS-TMC configuration installed successfully!
+An error occurred while saving the RDS-TMC configuration.,An error occurred while saving the RDS-TMC configuration.
+RDS-TMC configuration saved successfully!,RDS-TMC configuration saved successfully!
+{0} item(s) available for activation.,{0} item(s) available for activation.
+Can't be activated because blowfish/meta is code missing.,Can't be activated because blowfish/meta is code missing.
+Equivalent Meta Available,Equivalent Meta Available
+Unable to obtain the latest QuickGPSFix files from the TomTom server.,Unable to obtain the latest QuickGPSFix files from the TomTom server.
+QuickGPSFix files have installed successfully!,QuickGPSFix files have installed successfully!
+Select a folder to download the safety cameras to:,Select a folder to download the safety cameras to:
+All safety cameras have been successfully downloaded.,All safety cameras have been successfully downloaded.
+Your device has an unsupported navcore version. You must have one of the following versions installed:,Your device has an unsupported navcore version. You must have one of the following versions installed:
+"Connecting to device, please wait...","Connecting to device, please wait..."
+Could not establish a connection to the device. Make sure that it is connected to your PC.,Could not establish a connection to the device. Make sure that it is connected to your PC.
+The following processes are connected to the device. Please close them before continuing:,The following processes are connected to the device. Please close them before continuing:
+"Triggering device, please wait...","Triggering device, please wait..."
+The device did not respond to the trigger in a timely manner. Please check your device connection.,The device did not respond to the trigger in a timely manner. Please check your device connection.
+"Job list has been uploaded to the device, waiting for files to be requested...","Job list has been uploaded to the device, waiting for files to be requested..."
+<Unknown>,<Unknown>
+Uploading:,Uploading:
+Installing:,Installing:
+"Jobs have completed, waiting for device to finish everything...","Jobs have completed, waiting for device to finish everything..."
+"Validating packages, please wait...","Validating packages, please wait..."
+The following packages appear to be corrupted and are likely to fail during installation. Do you want to continue anyway? (not recommended),The following packages appear to be corrupted and are likely to fail during installation. Do you want to continue anyway? (not recommended)
+"The following packages appear to be incomplete. If multiple parts exist, please make sure to select all of them together at the same time. Do you want to continue anyway? (not recommended)","The following packages appear to be incomplete. If multiple parts exist, please make sure to select all of them together at the same time. Do you want to continue anyway? (not recommended)"
+There is not enough space present on the device to install the specified content.,There is not enough space present on the device to install the specified content.
+The following packages caused an error:,The following packages caused an error:
+Message:,Message:
+The device reports that only {0} of free space is available.,The device reports that only {0} of free space is available.
+An unexpected error occurred while preparing the package files.,An unexpected error occurred while preparing the package files.
+Please make sure the files are not in use by another program.,Please make sure the files are not in use by another program.
+Please make sure that your internet connection is working properly.,Please make sure that your internet connection is working properly.
+The patch has been installed successfully.,The patch has been installed successfully.
+The patch has been removed from the device.,The patch has been removed from the device.
+The maps have been removed from the device's internal memory.,The maps have been removed from the device's internal memory.
+The map kind/generation you have selected is not compatible with this device.,The map kind/generation you have selected is not compatible with this device.
+The map has been successfully installed to the device.,The map has been successfully installed to the device.
+The temporary files for this map are still present on the machine. Do you want to keep them to attempt re-installation later?,The temporary files for this map are still present on the machine. Do you want to keep them to attempt re-installation later?
+This will delete all maps stored in your device's internal memory along with the navcore patch. You will need to reapply the patch again afterwards. Are you sure you wish to continue?,This will delete all maps stored in your device's internal memory along with the navcore patch. You will need to reapply the patch again afterwards. Are you sure you wish to continue?
+All safety cameras have been successfully installed.,All safety cameras have been successfully installed.
+Remember to upload the latest meta and then reboot your device from the 'NAV3 Tools' menu to automatically activate the map.,Remember to upload the latest meta and then reboot your device from the 'NAV3 Tools' menu to automatically activate the map.
+Meta has been uploaded successfully to the device.,Meta has been uploaded successfully to the device.
+The standard patch activates content each time the device is rebooted using a built-in keygen. All that is required is an up-to-date meta file to be uploaded to the device.,The standard patch activates content each time the device is rebooted using a built-in keygen. All that is required is an up-to-date meta file to be uploaded to the device.
+"The truck patch is the same as the standard patch, but it will also unlock heavy vehicle types such as truck or bus when using a TRUCK map.","The truck patch is the same as the standard patch, but it will also unlock heavy vehicle types such as truck or bus when using a TRUCK map."
+TTActivator could not start the local server. Please accept the 'User Account Control' prompt or run TTActivator as an administrator.,TTActivator could not start the local server. Please accept the 'User Account Control' prompt or run TTActivator as an administrator.
+RDS-TMC Configuration,RDS-TMC Configuration
+Expired,Expired
+No safety cameras could be found from the TT server.,No safety cameras could be found from the TT server.
+This will delete all safety cameras (including licenses) from your device's internal memory. Do you wish to continue?,This will delete all safety cameras (including licenses) from your device's internal memory. Do you wish to continue?
+The safety cameras have been removed from the device's internal memory.,The safety cameras have been removed from the device's internal memory.

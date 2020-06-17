@@ -1,4 +1,4 @@
-﻿Browse,Sfoglia
+Browse,Sfoglia
 Refresh,Aggiorna
 Activate,Attiva
 File Name,Nome file
@@ -16,16 +16,16 @@ QuickGPSFix,QuickGPSFix
 Help,Aiuto
 Auto-Extract,Esstrazione automatica
 Download To Device,Download nel dispositivo
-Download To Folder,Download nel PC
+Download To Folder,Download in una cartella
 Temporary Download Folder:,Cartella temporanea:
-"Map Country/Region (select from list or enter manually, case-sensitive):","Mappa nazione/regione (seleziona da un elenco o inseriscila manualmente, attenzione a maiuscole/minuscole):"
+"Map Country/Region (select from list or enter manually, case-sensitive):","Mappa nazione/regione (seleziona da elenco o manualmente, attenzione a maiuscole/minuscole):"
 Map Version:,Versione mappa:
 Map Kind/Generation:,Tipo/generazione mappa:
 Map Downloader,Mappe
 Manual Install,Installazione manuale
 Easy/Automatic Install,Installazione facilitata/automatica
 Special thanks to the Maverick,Un grazie speciale a Maverick
-Use Premium Cameras (where possible),Usa camere premium (dove possibile)
+Use Premium Cameras (where possible),Usa telecamere Premium (dove possibile)
 Safety Cam Downloader,Telecamere sorveglianza
 Install Postcodes/Zipcodes,Installa codici postali/CAP
 Singapore,Singapore
@@ -135,7 +135,7 @@ An error occurred while downloading the selected map. Ensure you are connected t
 Assicurati di essere connesso ad internet e che la configurazione della mappa sia valida."
 {0} v{1} ({2}) requires {3} of space. {4}. Do you wish to continue?,{0} v{1} ({2}) richiede {3} di spazio libero. {4}. Vuoi continuare?
 "Also, this map currently does not have a meta code available and cannot be activated in TTActivator",Questa mappa non ha attualmente un codice meta disponibile e non può essere attivata in TTActivator
-"If you intend to activate this map, make sure a meta code for it exists",Se vuoi atttivare questa mappa assicurati che esiste il corrispondente codice meta
+"If you intend to activate this map, make sure a meta code for it exists",Se vuoi atttivare questa mappa assicurati che esista il corrispondente codice meta
 "Also, good news, TTActivator is able to activate this map",Buone notizie. TTActivator può attivare questa mappa
 "Map has been successfully downloaded:
 
@@ -166,9 +166,9 @@ Can't be activated because blowfish/meta is code missing.,Attivazione non possib
 Equivalent Meta Available,Meta equivalente disponibile
 Unable to obtain the latest QuickGPSFix files from the TomTom server.,Impossibile ottenere i file QuickGPSFix più recenti dal server TomTom.
 QuickGPSFix files have installed successfully!,Installazione file QuickGPSfix completata!
-Select a folder to download the safety cameras to:,Seleziona una cartella in cui scaricare gli autovelox:
-All safety cameras have been successfully downloaded.,Tutte le autovelox sono state scaricate correttamente.
-Your device has an unsupported navcore version. You must have one of the following versions installed:,Il dispositivo è dotato di una versione navcore non supportata. È necessario disporre di una delle seguenti versioni installate:
+Select a folder to download the safety cameras to:,Seleziona cartella in cui scaricare le telecanere sorveglianza:
+All safety cameras have been successfully downloaded.,Downlaod completato di tutte le telecamere di sorveglianza.
+Your device has an unsupported navcore version. You must have one of the following versions installed:,Il dispositivo dispone di una versione navcore non supportata. È necessario disporre di una delle seguenti versioni installate:
 "Connecting to device, please wait...",Connessione al dispositivo...
 Could not establish a connection to the device. Make sure that it is connected to your PC.,Impossibile stabilire una connessione con il dispositivo. Assicurati che sia collegato al PC.
 The following processes are connected to the device. Please close them before continuing:,I seguenti processi sono collegati al dispositivo. Prima di continuare chiudi questi processi:
@@ -176,7 +176,7 @@ The following processes are connected to the device. Please close them before co
 The device did not respond to the trigger in a timely manner. Please check your device connection.,Il dispositivo non ha risposto in modo tempestivo. Verifica la connessione del dispositivo.
 "Job list has been uploaded to the device, waiting for files to be requested...",Elenco attività caricato nel dispositivo. In attesa delle richieste di file...
 <Unknown>,<Sconosciuto>
-Uploading:,Caricamento:
+Uploading:,Upload:
 Installing:,Installazione:
 "Jobs have completed, waiting for device to finish everything...",Attività completata. In attesa del dispositivo per il completamento...
 "Validating packages, please wait...",Convalida dei pacchetti...
@@ -192,8 +192,8 @@ Please make sure that your internet connection is working properly.,Assicurati c
 The patch has been installed successfully.,La patch è stata installata correttamente.
 The patch has been removed from the device.,La patch è stata rimossa dal dispositivo.
 The maps have been removed from the device's internal memory.,Le mappe sono state eliminate dalla memoria interna del dispositivo.
-The map kind/generation you have selected is not compatible with this device.,La mappa tipo/generazione che è stata selezionata non è compatibile con questo dispositivo.
-The map has been successfully installed to the device.,La mappa è stato installata correttamente nel dispositivo.
+The map kind/generation you have selected is not compatible with this device.,La mappa tipo/generazione selezionata non è compatibile con questo dispositivo.
+The map has been successfully installed to the device.,Installazione mappa nel dispositivo completata.
 The temporary files for this map are still present on the machine. Do you want to keep them to attempt re-installation later?,I file temporanei per questa mappa sono ancora presenti nel computer. Vuoi tenerli per tentare una nuova installazione in seguito?
 This will delete all maps stored in your device's internal memory along with the navcore patch. You will need to reapply the patch again afterwards. Are you sure you wish to continue?,Questo cancellerà tutte le mappe memorizzate nella memoria interna del dispositivo insieme con la patch navcore. Sarà necessario riapplicare la patch di nuovo in seguito. Sei sicuro di voler continuare?
 All safety cameras have been successfully installed.,Tutti i file autovelox sono stati installati correttamente.
@@ -201,9 +201,9 @@ Remember to upload the latest meta and then reboot your device from the 'NAV3 To
 Meta has been uploaded successfully to the device.,Caricamento file meta nel dispositivo completato.
 The standard patch activates content each time the device is rebooted using a built-in keygen. All that is required is an up-to-date meta file to be uploaded to the device.,La patch 'Standard' attiva il contenuto ogni volta che il dispositivo viene riavviato mediante un generatore di chiave incorporato. Tutto ciò che serve è una file meta aggiornato e caricato nel dispositivo.
 "The truck patch is the same as the standard patch, but it will also unlock heavy vehicle types such as truck or bus when using a TRUCK map.","La patch 'Truck' è la stessa della patch 'Standard', ma potrà sbloccare anche tipi di veicoli pesanti come camion o autobus quando si utilizza una mappa Truck."
-TTActivator could not start the local server. Please accept the 'User Account Control' prompt or run TTActivator as an administrator.,TTActivator non ha potuto avviare il server locale. Accetta la finestra di dialogo nel PC ""Controllo dell'account utente"" o esegui TTActivator come amministratore.
+TTActivator could not start the local server. Please accept the 'User Account Control' prompt or run TTActivator as an administrator.,"TTActivator non ha potuto avviare il server locale. Accetta la finestra di dialogo nel PC """"Controllo dell'account utente"""" o esegui TTActivator come amministratore."
 RDS-TMC Configuration,Configurazione RDS-TMC
-Expired,Expired
-No safety cameras could be found from the TT server.,No safety cameras could be found from the TT server.
-This will delete all safety cameras (including licenses) from your device's internal memory. Do you wish to continue?,This will delete all safety cameras (including licenses) from your device's internal memory. Do you wish to continue?
-The safety cameras have been removed from the device's internal memory.,The safety cameras have been removed from the device's internal memory.
+Expired,Scaduto
+No safety cameras could be found from the TT server.,Nessuna telecamera di sorveglianza trovata nel server TomTom.
+This will delete all safety cameras (including licenses) from your device's internal memory. Do you wish to continue?,Ciò eliminerà tutte le telecamere di sorveglianza (comprese le licenze) dalla memoria interna del dispositivo. Vuoi continuare?
+The safety cameras have been removed from the device's internal memory.,Le telecamere di sorveglianza sono state rimosse dalla memoria interna del dispositivo.

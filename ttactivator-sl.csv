@@ -89,7 +89,7 @@ Please close TTActivator and then extract/replace the old version.","TTActivator
 {0}
 
 Prosimo zaprite TTActivator nato ga ekstrahirajte ter zamenjajte staro verzijo."
-QuickGPSFix Expiry: ,QuickGPSFix poteče: 
+"QuickGPSFix Expiry: ","QuickGPSFix poteče: "
 GPS Chipset,GPS Chipset
 Activated,Aktivirano
 Not Activated,Ni aktivirano
@@ -202,8 +202,9 @@ Meta has been uploaded successfully to the device.,Meta je bil uspešno naložen
 The standard patch activates content each time the device is rebooted using a built-in keygen. All that is required is an up-to-date meta file to be uploaded to the device.,"Standardni obliž aktivira vsebino vsakič, ko se naprava znova zažene z vgrajenim ključem. Vse, kar je potrebno, je posodobljena meta datoteka, ki jo želite naložiti v napravo."
 "The truck patch is the same as the standard patch, but it will also unlock heavy vehicle types such as truck or bus when using a TRUCK map.","Obliž za tovornjake je enak kot standardni obliž, vendar bo ob uporabi zemljevida TRUCK odklenil tudi težka vozila, kot sta tovornjak ali avtobus."
 TTActivator could not start the local server. Please accept the 'User Account Control' prompt or run TTActivator as an administrator.,TTActivator ni mogel zagnati lokalnega strežnika. Sprejmite pogovorno okno »Nadzor uporabniških računov« ali zaženite TTActivator kot skrbnik.
-RDS-TMC Configuration,RDS-TMC Configuration
-Expired,Expired
-No safety cameras could be found from the TT server.,No safety cameras could be found from the TT server.
-This will delete all safety cameras (including licenses) from your device's internal memory. Do you wish to continue?,This will delete all safety cameras (including licenses) from your device's internal memory. Do you wish to continue?
-The safety cameras have been removed from the device's internal memory.,The safety cameras have been removed from the device's internal memory.
+RDS-TMC Configuration,Konfiguracija RDS-TMC
+Expired,Poteklo
+No safety cameras could be found from the TT server.,Na TT strežniku ni bilo mogoče najti varnostnih kamer.
+This will delete all safety cameras (including licenses) from your device's internal memory. Do you wish to continue?,S tem bodo izbrisane vse varnostne kamere (vključno z licencami) iz notranjega pomnilnika vaše naprave. Ali želite nadaljevati?
+The safety cameras have been removed from the device's internal memory.,Varnostne kamere so bile odstranjene iz notranjega pomnilnika naprave.
+For NAV3 and navcore 9.x devices (no cspeech),Za naprave NAV3 in navcore 9.x (brez cspeech-a)

@@ -1,4 +1,4 @@
-Browse,Explorador
+﻿Browse,Explorador
 Refresh,Recargar
 Activate,Activar
 File Name,Nombre de Archivo
@@ -79,9 +79,17 @@ For Mazda NB1 and navcore 9.x devices,Para dispositivos Mazda NB1 y navcore 9.x
 For NAV3 and navcore 9.x devices (no ASR),Para dispositivos NAV3 y navcore 9.x (sin ASR)
 For Renault R-Link and navcore 9.x devices,Para dispositivos Renault R-Link y navcore 9.x
 "A new version of TTActivator ({0}) is available, would you like to update now?",Una nueva versión de TTActivator ({0}) está disponible. ¿Te gustaría actualizar ahora?
-"An error occurred while downloading the update:{0}","Se ha producido un error al descargar la actualización::{0}"
-"TTActivator has downloaded the latest version to:{0}Please close TTActivator and then extract/replace the old version.","TTActivator ha descargado la última versión a la siguiente ruta de archivo: {0} Cierre TTActivator y luego reemplace la versión anterior."
-QuickGPSFix Expiry: ,QuickGPSFix Expiración: 
+"An error occurred while downloading the update:
+{0}","Se produjo un error al descargar la actualización:
+{0}"
+"TTActivator has downloaded the latest version to:
+{0}
+
+Please close TTActivator and then extract/replace the old version.","TTActivator ha descargado la última versión a la siguiente ruta de archivo:
+{0}
+
+Cierre TTActivator y luego reemplace la versión anterior."
+"QuickGPSFix Expiry: ","QuickGPSFix Expiración: "
 GPS Chipset,GPS Chipset
 Activated,Activado
 Not Activated,No Activado
@@ -89,18 +97,38 @@ Missing Meta/Blowfish,Falta el codigo meta
 No Activation Needed,No se requiere activación
 Please wait...,Por favor espere...
 QuickGPSFix files updated successfully!,¡Archivos QuickGPSFix actualizados con éxito!
-"An error occurred while downloading or installing the QuickGPSFix files. {0}","Se ha producido un error al descargar o instalar los archivos QuickGPSFix. {0}"
+"An error occurred while downloading or installing the QuickGPSFix files.
+
+{0}","Se produjo un error al descargar o instalar los archivos QuickGPSFix.
+
+{0}"
 Update QuickGPSFix,Actualizar QuickGPSFix
 The meta code specified for this content {0}is not correct.,El código meta especificado para este contenido {0}no es correcto.
-"An error occurred while activating '{0}':{1}","Se ha producido un error al activar '{0}':{1}"
+"An error occurred while activating '{0}':
+
+{1}","Se produjo un error al activar '{0}':
+
+{1}"
 {0} item(s) activated successfully!,¡{0} archivos activados con éxito!
 Navcore has been patched successfully!,¡El Navcore ha sido parcheado exitosamente!
 "Navcore patch failed, it might already be patched!","¡El parcheo del navcore falló, podría estar parcheado!"
-"An error occurred during patching: {0}","Se ha producido un error al parchear el navcore: {0}"
+"An error occurred during patching:
+
+{0}","Se produjo un error al parchear el navcore:
+
+{0}"
 Meta has been updated successfully!,¡Meta.txt se ha actualizado correctamente!
-An unknown error occurred while updating meta.,¡Se ha producido un error desconocido al actualizar meta.txt!
-"An error occurred while downloading the selected map.{0}","Se ha producido un error al descargar el mapa seleccionado.{0}"
-"Also, remember to go to 'Installed Content' and activate the new map.","Recuerde ir a 'Contenido Instalado' y activar el nuevo mapa."
+An unknown error occurred while updating meta.,¡Se produjo un error desconocido al actualizar meta.txt!
+"An error occurred while downloading the selected map.
+
+{0}","Se produjo un error al descargar el mapa seleccionado.
+
+{0}"
+"
+
+Also, remember to go to 'Installed Content' and activate the new map.","
+
+Recuerde ir a 'Contenido Instalado' y activar el nuevo mapa."
 "Obtaining links for selected map, please wait...","Obteniendo enlaces para el mapa seleccionado, espere..."
 An error occurred while downloading the selected map. Ensure you are connected to the internet and that the map configuration you have chosen is valid.,Se ha producido un error al descargar el mapa seleccionado. Asegúrese de estar conectado a Internet y de que la configuración del mapa que haya elegido sea correcta.
 {0} v{1} ({2}) requires {3} of space. {4}. Do you wish to continue?,{0} v{1} ({2}) requiere {3} de espacio. {4}. ¿Desea continuar?
@@ -133,7 +161,7 @@ An error occurred while downloading or installing the postcode files.,Se ha prod
 RDS-TMC configuration installed successfully!,¡Configuración de RDS-TMC instalada con éxito!
 An error occurred while saving the RDS-TMC configuration.,Se ha producido un error al guardar la configuración RDS-TMC.
 RDS-TMC configuration saved successfully!,¡Configuración RDS-TMC guardada con éxito!
-{0} item(s) available for activation.,{0} archivos disponibles para la activación.
+{0} item(s) available for activation.,{0} archivos disponibles para activación.
 Can't be activated because blowfish/meta is code missing.,No se puede activar porque falta el código meta.
 Equivalent Meta Available,Meta equivalente disponible
 Unable to obtain the latest QuickGPSFix files from the TomTom server.,No se pueden obtener los últimos archivos QuickGPSFix del servidor TomTom.
@@ -172,10 +200,11 @@ All safety cameras have been successfully installed.,Todas los radares se han in
 Remember to upload the latest meta and then reboot your device from the 'NAV3 Tools' menu to automatically activate the map.,Recuerde cargar el último meta.txt y luego reinicie su dispositivo desde el menú 'Herramientas NAV3' para activar automáticamente el mapa.
 Meta has been uploaded successfully to the device.,El archivo Meta.txt se ha cargado correctamente en el dispositivo.
 The standard patch activates content each time the device is rebooted using a built-in keygen. All that is required is an up-to-date meta file to be uploaded to the device.,El parche estándar activa el contenido cada vez que se reinicia el dispositivo utilizando un keygen incorporado. Todo lo que se requiere es un archivo meta.txt actualizado para cargado en el dispositivo.
-"The truck patch is the same as the standard patch, but it will also unlock heavy vehicle types such as truck or bus when using a TRUCK map.","El parche de truck es el mismo que el parche estándar, pero también desbloqueará tipos de vehículos pesados como camiones o autobuses cuando se usa un mapa truck o camper."
-TTActivator could not start the local server. Please accept the 'User Account Control' prompt or run TTActivator as an administrator.,TTActivator no pudo iniciar el servidor local. Acepte el cuadro de diálogo ""Control de cuentas de usuario"" o ejecute TTActivator como administrador.
+"The truck patch is the same as the standard patch, but it will also unlock heavy vehicle types such as truck or bus when using a TRUCK map.","El parche de camión es el mismo que el parche estándar, pero también desbloqueará tipos de vehículos pesados como camiones o autobuses cuando se usa un mapa de CAMIÓN."
+TTActivator could not start the local server. Please accept the 'User Account Control' prompt or run TTActivator as an administrator.,"TTActivator no pudo iniciar el servidor local. Acepte el cuadro de diálogo ""Control de cuentas de usuario"" o ejecute TTActivator como administrador."
 RDS-TMC Configuration,Configuración RDS-TMC
 Expired,Caducado
 No safety cameras could be found from the TT server.,No se han encontrado cámaras de seguridad en el servidor TT.
 This will delete all safety cameras (including licenses) from your device's internal memory. Do you wish to continue?,Esto eliminará todas las cámaras de seguridad (incluidas las licencias .dct) de la memoria interna de su dispositivo. ¿Desea continuar?
 The safety cameras have been removed from the device's internal memory.,Las cámaras de seguridad se han eliminado de la memoria interna de su dispositivo.
+For NAV3 and navcore 9.x devices (no cspeech),Para dispositivos NAV3 y navcore 9.x (sin cspeech)

@@ -1,5 +1,5 @@
 ﻿Browse,Suchen
-Refresh,Erfrischen 
+Refresh,"Erfrischen "
 Activate,Activieren
 File Name,Dateiname
 Content Name,Inhaltsname
@@ -70,7 +70,7 @@ Install Truck Patch,LKW-Patch installieren
 For navcore 7.8x devices and above (cspeech/ASR/TTS/vocalizer only),Für navcore 7.8x Geräte und höher (nur cspeech/ASR/TTS/vocalizer)
 For navcore 7.8x devices and above (none included),Für navcore 7.8x Geräte und höher (keine enthalten)
 For navcore 7.8x devices and above (TTS only),Für navcore 7.8x Geräte und höher (nur TTS)
-For navcore 8.2x devices and above (IQroutes/ALG/TTS/vocalizer only),Für navcore 8.2x Geräte und höher (nur IQroutes/ALG/TTS/Vocalizer)
+For navcore 8.2x devices and above (IQroutes/ALG/TTS/vocalizer only),Für navcore 8.2x Geräte und höher (nur IQ-Routes/ALG/TTS/Vocalizer)
 For navcore 9.x devices,Für navcore 9.x Geräte
 For navcore 9.x devices (no ASR),Für navcore 9.x Geräte (kein ASR)
 For truck navcore 9.x devices,Für LKW navcore 9.x Geräte
@@ -89,7 +89,7 @@ Please close TTActivator and then extract/replace the old version.","TTActivator
 {0}
 
 Schließen Sie den TTActivator und extrahieren/ersetzen Sie dann die alte Version."
-QuickGPSFix Expiry: ,QuickGPSFix Ablauf: 
+"QuickGPSFix Expiry: ","QuickGPSFix Ablauf: "
 GPS Chipset,GPS Chipset
 Activated,Aktiviert
 Not Activated,Nicht aktiviert
@@ -103,13 +103,13 @@ QuickGPSFix files updated successfully!,QuickGPSFix-Dateien erfolgreich aktualis
 
 {0}"
 Update QuickGPSFix,QuickGPSFix aktualisieren
-The meta code specified for this content {0}is not correct.,Der für diesen Inhalt{0} angegebene Metacode ist nicht gut.
+The meta code specified for this content {0}is not correct.,Der für diesen Inhalt {0}angegebene Metacode ist nicht gut.
 "An error occurred while activating '{0}':
 
 {1}","Beim Aktivieren von '{0}' ist ein Fehler aufgetreten:
 
 {1}"
-{0} item(s) activated successfully!,{0} Artikel(en) erfolgreich aktiviert!
+{0} item(s) activated successfully!,{0} Artikel erfolgreich aktiviert!
 Navcore has been patched successfully!,Navcore wurde erfolgreich gepatcht!
 "Navcore patch failed, it might already be patched!","Navcore-Patch fehlgeschlagen, es könnte bereits schon gepatcht sein!"
 "An error occurred during patching:
@@ -163,13 +163,13 @@ An error occurred while saving the RDS-TMC configuration.,Beim Speichern der RDS
 RDS-TMC configuration saved successfully!,RDS-TMC-Konfiguration erfolgreich gespeichert!
 {0} item(s) available for activation.,{0} Artikel(en) für die Aktivierung verfügbar.
 Can't be activated because blowfish/meta is code missing.,"Kann nicht aktiviert werden, da Blowfish/Meta fehlt."
-Equivalent Meta Available,Äquivalent meta verfügbar
+Equivalent Meta Available,Äquivalenter Meta-Eintrag verfügbar
 Unable to obtain the latest QuickGPSFix files from the TomTom server.,Die neuesten QuickGPSFix-Dateien können nicht vom TomTom-Server abgerufen werden.
 QuickGPSFix files have installed successfully!,QuickGPSFix-Dateien wurden erfolgreich installiert!
-Select a folder to download the safety cameras to:,"Wählen Sie einen Ordner aus, in den Sie die Sicherheitskameras herunterladen möchten:"
-All safety cameras have been successfully downloaded.,Alle Sicherheitskameras wurden erfolgreich heruntergeladen.
+Select a folder to download the safety cameras to:,"Wählen Sie einen Ordner aus, in den Sie die Blitzer herunterladen möchten:"
+All safety cameras have been successfully downloaded.,Alle Blitzer wurden erfolgreich heruntergeladen.
 Your device has an unsupported navcore version. You must have one of the following versions installed:,Ihr Gerät verfügt über eine nicht unterstützte Navcore-Version. Sie müssen eine der folgenden Versionen installiert haben:
-"Connecting to device, please wait...","Verbindung zum Gerät herstellen, bitte warten..."
+"Connecting to device, please wait...","Verbindung zum Gerät wird hergestellt, bitte warten..."
 Could not establish a connection to the device. Make sure that it is connected to your PC.,"Es konnte keine Verbindung zum Gerät hergestellt werden. Stellen Sie sicher, dass es an Ihren PC angeschlossen ist."
 The following processes are connected to the device. Please close them before continuing:,"Die folgenden Prozesse sind mit dem Gerät verbunden. Bitte schließen Sie sie, bevor Sie fortfahren:"
 "Triggering device, please wait...","Auslösen des Geräts, bitte warten..."
@@ -179,31 +179,32 @@ The device did not respond to the trigger in a timely manner. Please check your 
 Uploading:,Hochladen:
 Installing:,Installieren:
 "Jobs have completed, waiting for device to finish everything...","Die Jobs sind abgeschlossen und warten darauf, dass das Gerät alles beendet..."
-"Validating packages, please wait...","Pakete validieren, bitte warten..."
+"Validating packages, please wait...","Pakete werden validiert, bitte warten..."
 The following packages appear to be corrupted and are likely to fail during installation. Do you want to continue anyway? (not recommended),Die folgenden Pakete scheinen beschädigt zu sein und schlagen wahrscheinlich während der Installation fehl. Möchtest du trotzdem weitermachen? (nicht empfohlen)
-"The following packages appear to be incomplete. If multiple parts exist, please make sure to select all of them together at the same time. Do you want to continue anyway? (not recommended)","Die folgenden Pakete scheinen unvollständig zu sein. Wenn mehrere Teile vorhanden sind, stellen Sie bitte sicher, dass Sie alle gleichzeitig auswählen. Möchtest du trotzdem weitermachen? (nicht empfohlen)"
+"The following packages appear to be incomplete. If multiple parts exist, please make sure to select all of them together at the same time. Do you want to continue anyway? (not recommended)","Die folgenden Pakete scheinen unvollständig zu sein. Wenn mehrere Teile vorhanden sind, stellen Sie bitte sicher, diese alle gleichzeitig zu markieren/auszuwählen. Möchtest du trotzdem weitermachen? (nicht empfohlen)"
 There is not enough space present on the device to install the specified content.,"Auf dem Gerät ist nicht genügend Speicherplatz vorhanden, um den angegebenen Inhalt zu installieren."
 The following packages caused an error:,Die folgenden Pakete haben einen Fehler verursacht:
-Message:,Botschaft:
+Message:,Hinweis:
 The device reports that only {0} of free space is available.,"Das Gerät meldet, dass nur {0} freier Speicherplatz verfügbar sind."
 An unexpected error occurred while preparing the package files.,Beim Vorbereiten der Paketdateien ist ein unerwarteter Fehler aufgetreten.
 Please make sure the files are not in use by another program.,"Bitte stellen Sie sicher, dass die Dateien nicht von einem anderen Programm verwendet werden."
 Please make sure that your internet connection is working properly.,"Bitte stellen Sie sicher, dass Ihre Internetverbindung ordnungsgemäß funktioniert."
 The patch has been installed successfully.,Der Patch wurde erfolgreich installiert.
 The patch has been removed from the device.,Der Patch wurde vom Gerät entfernt.
-The maps have been removed from the device's internal memory.,Die Karten aus dem internen Speicher des Geräts wurden entfernt.
+The maps have been removed from the device's internal memory.,Die Karten aus dem internen Speicher des Gerätes wurden entfernt.
 The map kind/generation you have selected is not compatible with this device.,Die von Ihnen ausgewählte Kartenart / -generation ist mit diesem Gerät nicht kompatibel.
 The map has been successfully installed to the device.,Die Karte wurde erfolgreich auf dem Gerät installiert.
 The temporary files for this map are still present on the machine. Do you want to keep them to attempt re-installation later?,"Die temporären Dateien für diese Karte sind noch auf dem Computer vorhanden. Möchten Sie sie behalten, um später eine Neuinstallation zu versuchen?"
 This will delete all maps stored in your device's internal memory along with the navcore patch. You will need to reapply the patch again afterwards. Are you sure you wish to continue?,"Dadurch werden alle im internen Speicher Ihres Geräts gespeicherten Karten zusammen mit dem Navcore-Patch gelöscht. Sie müssen den Patch anschließend erneut anwenden. Sind Sie sicher, dass Sie fortfahren möchten?"
-All safety cameras have been successfully installed.,Alle Sicherheitskameras wurden erfolgreich installiert.
-Remember to upload the latest meta and then reboot your device from the 'NAV3 Tools' menu to automatically activate the map.,"Denken Sie daran, das neueste Meta hochzuladen und Ihr Gerät dann über das Menü 'NAV3 Tools' neu zu starten, um die Karte automatisch zu aktivieren."
-Meta has been uploaded successfully to the device.,Meta wurde erfolgreich auf das Gerät hochgeladen.
-The standard patch activates content each time the device is rebooted using a built-in keygen. All that is required is an up-to-date meta file to be uploaded to the device.,"Der Standard-Patch aktiviert den Inhalt jedes Mal, wenn das Gerät mit einem integrierten Keygen neu gestartet wird. Alles, was benötigt wird, ist eine aktuelle Metadatei, die auf das Gerät hochgeladen werden kann."
-"The truck patch is the same as the standard patch, but it will also unlock heavy vehicle types such as truck or bus when using a TRUCK map.","Der LKW-Patch ist der gleiche wie der Standard-Patch, entsperrt jedoch auch schwere Fahrzeugtypen wie LKW oder Bus, wenn eine LKW-Karte verwendet wird."
-TTActivator could not start the local server. Please accept the 'User Account Control' prompt or run TTActivator as an administrator.,TTActivator konnte den lokalen Server nicht starten. Bitte akzeptieren Sie das Dialogfeld ""Benutzerkontensteuerung"" oder führen Sie TTActivator als Administrator aus.
+All safety cameras have been successfully installed.,Alle Blitzer wurden erfolgreich installiert.
+Remember to upload the latest meta and then reboot your device from the 'NAV3 Tools' menu to automatically activate the map.,"Denken Sie daran, die neueste Meta.txt über Tools ""Update Meta"" herunterzuladen und Ihr Gerät dann über das Menü 'NAV3 Tools' neu zu starten, um die Karte automatisch zu aktivieren."
+Meta has been uploaded successfully to the device.,Meta.txt wurde erfolgreich auf das Gerät hochgeladen.
+The standard patch activates content each time the device is rebooted using a built-in keygen. All that is required is an up-to-date meta file to be uploaded to the device.,"Der Standard-Patch aktiviert den Inhalt jedes Mal, wenn das Gerät mit einem integrierten Keygen neu gestartet wird. Alles, was benötigt wird, ist eine aktuelle Meta.txt Datei, die auf das Gerät hochgeladen werden kann."
+"The truck patch is the same as the standard patch, but it will also unlock heavy vehicle types such as truck or bus when using a TRUCK map.","Der LKW-Patch ist der gleiche wie der Standard-Patch, entsperrt jedoch auch Fahrzeugtypen wie LKW oder Bus, wenn eine LKW-Karte verwendet wird."
+TTActivator could not start the local server. Please accept the 'User Account Control' prompt or run TTActivator as an administrator.,"TTActivator konnte den lokalen Server nicht starten. Bitte akzeptieren Sie das Dialogfeld ""Benutzerkontensteuerung"" oder führen Sie TTActivator als Administrator aus."
 RDS-TMC Configuration,RDS-TMC-Konfiguration
-Expired,Expired
-No safety cameras could be found from the TT server.,No safety cameras could be found from the TT server.
-This will delete all safety cameras (including licenses) from your device's internal memory. Do you wish to continue?,This will delete all safety cameras (including licenses) from your device's internal memory. Do you wish to continue?
-The safety cameras have been removed from the device's internal memory.,The safety cameras have been removed from the device's internal memory.
+Expired,Abgelaufen
+No safety cameras could be found from the TT server.,Es konnten keine Blitzer auf dem TT Server gefunden werden.
+This will delete all safety cameras (including licenses) from your device's internal memory. Do you wish to continue?,Dies wird alle Blitzer (und Freischaltcodes) vom internen Speicher löschen. Willst Du fortfahren?
+The safety cameras have been removed from the device's internal memory.,Die Blitzer wurden vom internen Speicher gelöscht.
+For NAV3 and navcore 9.x devices (no cspeech),Für navcore 9.x Geräte (kein cspeech)

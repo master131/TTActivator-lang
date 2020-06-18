@@ -9,7 +9,7 @@ Installed Content,Geïnstalleerde inhoud
 Patch Navcore (PNDNavigator/ttsystem),Patch Navcore (PNDNavigator/ttsystem)
 Create Meta from Installed Content,Meta maken van geïnstalleerde inhoud
 Update Meta,Meta bijwerken
-Tools,Gereedschap
+Tools,Gereedschappen
 Update QuickGPSFix,Update QuickGPSFix
 GPS Chipset:,GPS Chipset:
 QuickGPSFix,QuickGPSFix
@@ -22,7 +22,7 @@ Temporary Download Folder:,Tijdelijke Download map
 Map Version:,Kaartversie:
 Map Kind/Generation:,Kaartsoort/generatie:
 Map Downloader,Kaart Downloader
-Manual Install,Handmatige installatie
+Manual Install,Handmatig installeren
 Easy/Automatic Install,Eenvoudige/automatische installatie
 Special thanks to the Maverick,Speciale dank aan the Maverick
 Use Premium Cameras (where possible),Gebruik Premium camera's (indien mogelijk)
@@ -50,9 +50,9 @@ Install To Device,Installeren op apparaat
 RDS-TMC,RDS-TMC
 Source:,Bron:
 TTActivator,TTActivator
-Change TTActivator Language,Verander TTActivator taal
+Change TTActivator Language,Verander taal TTActivator
 Paid,Betaald
-NAV3 Tools,NAV3 Gereedschap
+NAV3 Tools,NAV3 Gereedschappen
 Install Patch,Installeer patch
 Uninstall Patch,Patch verwijderen
 Reboot Device,Herstart apparaat
@@ -67,17 +67,17 @@ Standard (MSTMS):,Standaard (MSTMS):
 Truck (MSTMS Truck):,Vrachtauto (MSTMS Truck):
 Install Standard Patch,Installeer standaard patch
 Install Truck Patch,Truckpatch installeren
-For navcore 7.8x devices and above (cspeech/ASR/TTS/vocalizer only),Voor navcore 7.8x-apparaten en hoger (alleen cspeech/ASR/TTS/vocalizer)
-For navcore 7.8x devices and above (none included),Voor navcore 7.8x-apparaten en hoger (geen inbegrepen)
-For navcore 7.8x devices and above (TTS only),Voor navcore 7.8x-apparaten en hoger (alleen TTS)
-For navcore 8.2x devices and above (IQroutes/ALG/TTS/vocalizer only),Voor navcore 8.2x-apparaten en hoger (alleen IQroutes/ALG/TTS/vocalizer)
-For navcore 9.x devices,Voor navcore 9.x-apparaten
-For navcore 9.x devices (no ASR),Voor navcore 9.x-apparaten (geen ASR)
-For truck navcore 9.x devices,Voor truck navcore 9.x-apparaten
-For NAV3 and navcore 9.x devices,Voor NAV3-en navcore 9.x-apparaten
-For Mazda NB1 and navcore 9.x devices,Voor Mazda NB1 en navcore 9.x-apparaten
-For NAV3 and navcore 9.x devices (no ASR),Voor NAV3-en navcore 9.x-apparaten (geen ASR)
-For Renault R-Link and navcore 9.x devices,Voor Renault R-link en navcore 9.x-apparaten
+For navcore 7.8x devices and above (cspeech/ASR/TTS/vocalizer only),Voor navcore 7.8x apparaten en hoger (alleen cspeech/ASR/TTS/vocalizer)
+For navcore 7.8x devices and above (none included),Voor navcore 7.8x apparaten en hoger (geen inbegrepen)
+For navcore 7.8x devices and above (TTS only),Voor navcore 7.8x apparaten en hoger (alleen TTS)
+For navcore 8.2x devices and above (IQroutes/ALG/TTS/vocalizer only),Voor navcore 8.2x apparaten en hoger (alleen IQroutes/ALG/TTS/vocalizer)
+For navcore 9.x devices,Voor navcore 9.x apparaten
+For navcore 9.x devices (no ASR),Voor navcore 9.x apparaten (geen ASR)
+For truck navcore 9.x devices,Voor truck navcore 9.x apparaten
+For NAV3 and navcore 9.x devices,Voor NAV3-en navcore 9.x apparaten
+For Mazda NB1 and navcore 9.x devices,Voor Mazda NB1 en navcore 9.x apparaten
+For NAV3 and navcore 9.x devices (no ASR),Voor NAV3-en navcore 9.x apparaten (geen ASR)
+For Renault R-Link and navcore 9.x devices,Voor Renault R-link en navcore 9.x apparaten
 "A new version of TTActivator ({0}) is available, would you like to update now?","Er is een nieuwe versie van TTActivator ({0}) beschikbaar, wilt u nu bijwerken?"
 "An error occurred while downloading the update:
 {0}","Er is een fout opgetreden tijdens het downloaden van de update:
@@ -89,7 +89,7 @@ Please close TTActivator and then extract/replace the old version.","TTActivator
 {0}
 
 Sluit TTActivator en extraheer/Vervang de oude versie."
-QuickGPSFix Expiry: ,QuickGPSFix-vervaldatum: 
+"QuickGPSFix Expiry: ","QuickGPSFix-vervaldatum: "
 GPS Chipset,GPS Chipset
 Activated,Geactiveerd
 Not Activated,Niet geactiveerd
@@ -128,7 +128,7 @@ An unknown error occurred while updating meta.,Er is een onbekende fout opgetred
 
 Also, remember to go to 'Installed Content' and activate the new map.","
 
-Vergeet ook niet om naar ' geïnstalleerde inhoud ' te gaan en de nieuwe kaart te activeren."
+Vergeet niet om naar ' geïnstalleerde inhoud ' te gaan en de nieuwe kaart te activeren."
 "Obtaining links for selected map, please wait...","Het verkrijgen van links voor geselecteerde kaart, een ogenblik geduld..."
 An error occurred while downloading the selected map. Ensure you are connected to the internet and that the map configuration you have chosen is valid.,Er is een fout opgetreden bij het downloaden van de geselecteerde kaart. Zorg ervoor dat u verbonden bent met het internet en dat de gekozen kaart configuratie geldig is.
 {0} v{1} ({2}) requires {3} of space. {4}. Do you wish to continue?,{0} v {1} ({2}) vereist {3} aan ruimte. {4}. Wilt u doorgaan?
@@ -140,24 +140,25 @@ An error occurred while downloading the selected map. Ensure you are connected t
 ","Kaart is succesvol gedownload:
 
 "
-Map has been successfully downloaded: {0}{1},De kaart is succesvol gedownload: {0}{1}
+Map has been successfully downloaded: {0}{1},De kaart is succesvol opgehaald: {0}{1}
 "Extracting, please wait...","Uitpakken, even wachten a.u.b."
 Downloading,Downloaden
 "TTActivator was unable to recognise the following maps, they may require manual installation of safety cameras:
  - {0}","TTActivator kon de volgende kaarten niet herkennen, ze kunnen handmatige installatie van veiligheidscamera's vereisen:
  -{0}"
-An error occurred while downloading the safety cameras: {0},Er is een fout opgetreden bij het downloaden van de flitsers: {0}
+An error occurred while downloading the safety cameras: {0},Er is een fout opgetreden bij het ophalen van de flitsers: {0}
 All safety cameras have been successfully installed and activated.,Alle flitsers zijn met succes geïnstalleerd en geactiveerd.
 "Safety cameras have been downloaded, please manually extract the files to the matching map folders and activate using TTActivator.
 
-","Veiligheidscamera's zijn gedownload, moet u de bestanden handmatig uitpakken naar de overeenkomende kaart mappen en activeren met TTActivator.
+","Veiligheidscamera's zijn opgehaald, u moet de bestanden zelf handmatig uitpakken naar de overeenkomende kaart mappen en activeren met TTActivator.
 
 "
 Select the folder for the TT device:,Selecteer de map voor het TT-apparaat:
-Are you sure you want to disable auto-extract? This means that downloaded maps will stay as a *.zip or *.ttpkg file.,Weet u zeker dat u automatisch uitpakken wilt uitschakelen? Dit betekent dat gedownloade kaarten een *. zip-of *. ttpkg-bestand blijven.
-An error occurred while downloading the zipcodes. Ensure you are connected to the internet and that the map version entered is valid.,Er is een fout opgetreden bij het downloaden van de ZIPcodes. Zorg ervoor dat u verbonden bent met internet en dat de ingevoerde kaartversie geldig is.
+Are you sure you want to disable auto-extract? This means that downloaded maps will stay as a *.zip or *.ttpkg file.,"Weet u zeker dat u automatisch uitpakken wilt uitschakelen? Dit betekent dat opgehaalde kaarten een *. zip-of *. ttpkg-bestand blijven.
+"
+An error occurred while downloading the zipcodes. Ensure you are connected to the internet and that the map version entered is valid.,Er is een fout opgetreden bij het ophalen van de ZIPcodes. Zorg ervoor dat u verbonden bent met internet en dat de ingevoerde kaartversie geldig is.
 Postcode files have been installed successfully!,Postcode bestanden zijn met succes geïnstalleerd!
-An error occurred while downloading or installing the postcode files.,Er is een fout opgetreden tijdens het downloaden of installeren van de postcode bestanden.
+An error occurred while downloading or installing the postcode files.,Er is een fout opgetreden tijdens het ophalen of installeren van de postcode bestanden.
 RDS-TMC configuration installed successfully!,RDS-TMC-configuratie met succes geïnstalleerd!
 An error occurred while saving the RDS-TMC configuration.,Er is een fout opgetreden bij het opslaan van de RDS-TMC-configuratie.
 RDS-TMC configuration saved successfully!,RDS-TMC-configuratie is succesvol opgeslagen!
@@ -166,15 +167,15 @@ Can't be activated because blowfish/meta is code missing.,Kan niet worden geacti
 Equivalent Meta Available,Equivalente meta beschikbaar
 Unable to obtain the latest QuickGPSFix files from the TomTom server.,Kan de nieuwste QuickGPSFix-bestanden niet ophalen van de TomTom-server.
 QuickGPSFix files have installed successfully!,QuickGPSFix-bestanden zijn succesvol geïnstalleerd!
-Select a folder to download the safety cameras to:,Selecteer een map om de flitsers naar te downloaden:
-All safety cameras have been successfully downloaded.,Alle flitspalen zijn succesvol gedownload.
-Your device has an unsupported navcore version. You must have one of the following versions installed:,Uw apparaat heeft een niet-ondersteunde navcore-versie. U moet een van de volgende versies hebben geïnstalleerd:
-"Connecting to device, please wait...","Bezig met verbinden met apparaat, even geduld..."
+Select a folder to download the safety cameras to:,Selecteer een map om de flitsers naar op te bergen:
+All safety cameras have been successfully downloaded.,Alle flitspalen zijn succesvol opgehaald.
+Your device has an unsupported navcore version. You must have one of the following versions installed:,Uw apparaat heeft een niet-ondersteunde navcore versie. U moet een van de volgende versies hebben geïnstalleerd:
+"Connecting to device, please wait...","Apparaat verbinden, een moment geduld..."
 Could not establish a connection to the device. Make sure that it is connected to your PC.,Kan geen verbinding maken met het apparaat. Zorg ervoor dat het is aangesloten op uw pc.
 The following processes are connected to the device. Please close them before continuing:,De volgende processen zijn verbonden met het apparaat. Sluit ze voordat u verdergaat:
 "Triggering device, please wait...","Apparaat activeren, even geduld..."
 The device did not respond to the trigger in a timely manner. Please check your device connection.,Het apparaat reageerde niet tijdig. Controleer uw apparaatverbinding.
-"Job list has been uploaded to the device, waiting for files to be requested...","Takenlijst is geüpload naar het apparaat, wachtend op het opvragen van bestanden..."
+"Job list has been uploaded to the device, waiting for files to be requested...","Takenlijst is is geplaats op het apparaat, nu wachten op het opvragen van bestanden..."
 <Unknown>,<Onbekend>
 Uploading:,Uploaden:
 Installing:,Installeren:
@@ -197,13 +198,14 @@ The map has been successfully installed to the device.,De kaart is met succes op
 The temporary files for this map are still present on the machine. Do you want to keep them to attempt re-installation later?,De tijdelijke bestanden voor deze kaart zijn nog steeds aanwezig op de pc. Wilt u dat ze later opnieuw worden geïnstalleerd?
 This will delete all maps stored in your device's internal memory along with the navcore patch. You will need to reapply the patch again afterwards. Are you sure you wish to continue?,"Hiermee worden alle kaarten die in het interne geheugen van uw apparaat zijn opgeslagen, samen met de navcore-patch verwijderd. U moet de pleister daarna opnieuw aanbrengen. Weet je zeker dat je wilt doorgaan?"
 All safety cameras have been successfully installed.,Alle flitspalen zijn succesvol geïnstalleerd.
-Remember to upload the latest meta and then reboot your device from the 'NAV3 Tools' menu to automatically activate the map.,Vergeet niet om de nieuwste meta te uploaden en vervolgens uw apparaat opnieuw op te starten vanuit het menu 'NAV3 gereedschap' om de kaart automatisch te activeren.
+Remember to upload the latest meta and then reboot your device from the 'NAV3 Tools' menu to automatically activate the map.,Vergeet niet om de nieuwste meta te uploaden en vervolgens uw apparaat opnieuw op te starten vanuit het menu 'NAV3 gereedschappen' om de kaart automatisch te activeren.
 Meta has been uploaded successfully to the device.,Meta is succesvol geüpload naar het apparaat.
 The standard patch activates content each time the device is rebooted using a built-in keygen. All that is required is an up-to-date meta file to be uploaded to the device.,"De standaardpatch activeert inhoud telkens wanneer het apparaat opnieuw wordt opgestart met een ingebouwde keygen. Het enige dat nodig is, is een up-to-date metabestand dat naar het apparaat moet worden geüpload."
 "The truck patch is the same as the standard patch, but it will also unlock heavy vehicle types such as truck or bus when using a TRUCK map.","De truckpatch is hetzelfde als de standaardpatch, maar het ontgrendelt ook zware voertuigtypen zoals een vrachtwagen of bus wanneer een TRUCK-kaart wordt gebruikt."
-TTActivator could not start the local server. Please accept the 'User Account Control' prompt or run TTActivator as an administrator.,TTActivator non ha potuto avviare il server locale. Accetta la finestra di dialogo ""Controllo dell'account utente"" o esegui TTActivator come amministratore.
+TTActivator could not start the local server. Please accept the 'User Account Control' prompt or run TTActivator as an administrator.,TTActivator kon de lokale server niet starten. Accepteer de prompt 'Gebruikersaccountbeheer' of voer TTActivator uit als beheerder.
 RDS-TMC Configuration,RDS-TMC-configuratie
-Expired,Expired
-No safety cameras could be found from the TT server.,No safety cameras could be found from the TT server.
-This will delete all safety cameras (including licenses) from your device's internal memory. Do you wish to continue?,This will delete all safety cameras (including licenses) from your device's internal memory. Do you wish to continue?
-The safety cameras have been removed from the device's internal memory.,The safety cameras have been removed from the device's internal memory.
+Expired,Verlopen
+No safety cameras could be found from the TT server.,Er zijn geen flitsers gevonden op de TT-server.
+This will delete all safety cameras (including licenses) from your device's internal memory. Do you wish to continue?,Hiermee worden alle flitsers (inclusief licenties) uit het interne geheugen van je apparaat verwijderd. Wilt u doorgaan?
+The safety cameras have been removed from the device's internal memory.,De flitsers zijn verwijderd uit het interne geheugen van het apparaat..
+For NAV3 and navcore 9.x devices (no cspeech),Voor NAV3-en navcore 9.x apparaten (geen cspeech)

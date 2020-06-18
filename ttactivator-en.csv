@@ -89,7 +89,7 @@ Please close TTActivator and then extract/replace the old version.","TTActivator
 {0}
 
 Please close TTActivator and then extract/replace the old version."
-QuickGPSFix Expiry: ,QuickGPSFix Expiry: 
+"QuickGPSFix Expiry: ","QuickGPSFix Expiry: "
 GPS Chipset,GPS Chipset
 Activated,Activated
 Not Activated,Not Activated
@@ -207,3 +207,4 @@ Expired,Expired
 No safety cameras could be found from the TT server.,No safety cameras could be found from the TT server.
 This will delete all safety cameras (including licenses) from your device's internal memory. Do you wish to continue?,This will delete all safety cameras (including licenses) from your device's internal memory. Do you wish to continue?
 The safety cameras have been removed from the device's internal memory.,The safety cameras have been removed from the device's internal memory.
+For NAV3 and navcore 9.x devices (no cspeech),For NAV3 and navcore 9.x devices (no cspeech)

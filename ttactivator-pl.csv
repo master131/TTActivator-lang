@@ -89,7 +89,7 @@ Please close TTActivator and then extract/replace the old version.","TTActivator
 {0}
 
 Zamknij TTActivator a nastepnie wypakuj/zastąp starą wersję."
-QuickGPSFix Expiry: ,QuickGPSFix wygaśnięcie: 
+"QuickGPSFix Expiry: ","QuickGPSFix wygaśnięcie: "
 GPS Chipset,GPS Chipset
 Activated,Aktywowano
 Not Activated,Nie aktywowano
@@ -203,7 +203,8 @@ The standard patch activates content each time the device is rebooted using a bu
 "The truck patch is the same as the standard patch, but it will also unlock heavy vehicle types such as truck or bus when using a TRUCK map.","Plaster ciężarówka jest taka sama jak w standardowej poprawki, ale również odblokować typów pojazdów ciężkich, takich jak ciężarówki lub autobusu przy użyciu mapy TRUCK."
 TTActivator could not start the local server. Please accept the 'User Account Control' prompt or run TTActivator as an administrator.,TTActivator nie mógł uruchomić lokalnego serwera. Zaakceptuj okno dialogowe „Kontrola konta użytkownika” lub uruchom TTActivator jako administrator.
 RDS-TMC Configuration,Konfiguracja RDS-TMC
-Expired,Expired
-No safety cameras could be found from the TT server.,No safety cameras could be found from the TT server.
-This will delete all safety cameras (including licenses) from your device's internal memory. Do you wish to continue?,This will delete all safety cameras (including licenses) from your device's internal memory. Do you wish to continue?
-The safety cameras have been removed from the device's internal memory.,The safety cameras have been removed from the device's internal memory.
+Expired,Przedawniony
+No safety cameras could be found from the TT server.,Nie znaleziono fotoradarów z serwera TT.
+This will delete all safety cameras (including licenses) from your device's internal memory. Do you wish to continue?,Spowoduje to usunięcie wszystkich fotoradarów (w tym licencji) z pamięci wewnętrznej urządzenia. Czy chcesz kontynuować?
+The safety cameras have been removed from the device's internal memory.,Fotoradary zostały usunięte z wewnętrznej pamięci urządzenia.
+For NAV3 and navcore 9.x devices (no cspeech),Dla urządzeń NAV3 oraz z navcore 9.x (brak cspeech)

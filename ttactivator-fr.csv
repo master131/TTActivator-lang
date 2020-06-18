@@ -1,33 +1,33 @@
 ﻿Browse,Parcourir
 Refresh,Rafraîchir
 Activate,Activer
-File Name,Nom de fichier
+File Name,Nom du fichier
 Content Name,Nom du contenu
 Content Type,Type de contenu
 Status,Statut
 Installed Content,Contenu installé
 Patch Navcore (PNDNavigator/ttsystem),Patch Navcore (PNDNavigator/ttsystem)
-Create Meta from Installed Content,Créer Meta à partir de contenu installé
+Create Meta from Installed Content,Créer Meta à partir du contenu installé
 Update Meta,Mise à jour Meta
 Tools,Outils
 Update QuickGPSFix,Mise à jour QuickGPSFix
 GPS Chipset:,Chipset GPS:
 QuickGPSFix,QuickGPSFix
 Help,Aide
-Auto-Extract,Extrait automatique
-Download To Device,Télécharger a Device
-Download To Folder,Télécharger a dossier
-Temporary Download Folder:,Dossier de téléchargement temporaire :
-"Map Country/Region (select from list or enter manually, case-sensitive):","Carte Pays/Région (sélectionner à partir de la liste ou entrer manuellement, sensible aux cas):"
+Auto-Extract,Extraction automatique
+Download To Device,Télécharger vers appareil
+Download To Folder,Télécharger vers dossier
+Temporary Download Folder:,Dossier de téléchargement temporaire:
+"Map Country/Region (select from list or enter manually, case-sensitive):","Carte Pays/Région (sélectionner à partir de la liste ou saisir manuellement, sensible à la casse):"
 Map Version:,Version de la carte:
 Map Kind/Generation:,Type/génération de carte:
 Map Downloader,Téléchargeur de cartes
 Manual Install,Installation manuelle
 Easy/Automatic Install,Installation facile/automatique
-Special thanks to the Maverick,Remerciements spéciaux au The Maverick
-Use Premium Cameras (where possible),Utiliser des caméras Premium (dans la mesure du possible)
+Special thanks to the Maverick,Remerciements spéciaux à The Maverick
+Use Premium Cameras (where possible),Utiliser des caméras Premium (si possible)
 Safety Cam Downloader,Téléchargeur Safety Cam
-Install Postcodes/Zipcodes,Installer les codes postaux/codes postal
+Install Postcodes/Zipcodes,Installer les codes postaux
 Singapore,Singapour
 Great Britain,Grande-bretagne
 Netherlands,Pays-Bas
@@ -35,7 +35,7 @@ Postcodes,Codes postaux
 Custom/Unknown Traffic Providers:,Fournisseurs de trafic personnalisés/inconnus:
 Known Traffic Providers:,Fournisseurs de trafic connus:
 TX02 (Marigot) - for Carminat,TX02 (Marigot) - pour Carminat
-TX01 (Default) - for most devices,TX01 (Default) - pour most devices
+TX01 (Default) - for most devices,TX01 (Default) - pour la plupart des appareils
 CC,CC
 LTN,LTN
 SID,SID
@@ -43,10 +43,10 @@ ETI,ETI
 ETO,ETO
 Name,Nom
 Country,Pays
-Add Custom Provider (Advanced),Ajouter Custom Provider (Advanced)
-Save As...,Enregistrer as...
+Add Custom Provider (Advanced),Ajouter un fournisseur personnalisé (Avancé)
+Save As...,Enregistrer sous...
 Enable/Disable All Providers,Activer/désactiver tous les fournisseurs
-Install To Device,Installer à l'appareil
+Install To Device,Installer sur l'appareil
 RDS-TMC,RDS-TMC
 Source:,Source:
 TTActivator,TTActivator
@@ -67,13 +67,13 @@ Standard (MSTMS):,Standard (MSTMS):
 Truck (MSTMS Truck):,Camion (MSTMS):
 Install Standard Patch,Installer le patch standard
 Install Truck Patch,Installer le patch camion
-For navcore 7.8x devices and above (cspeech/ASR/TTS/vocalizer only),Pour les appareils navcore 7.8x et au-dessus (cspeech/ASR/TTS/vocalizer seulement)
-For navcore 7.8x devices and above (none included),Pour les appareils navcore 7.8x et ci-dessus (aucun inclus)
-For navcore 7.8x devices and above (TTS only),Pour les appareils navcore 7.8x et au-dessus (TTS seulement)
-For navcore 8.2x devices and above (IQroutes/ALG/TTS/vocalizer only),Pour les appareils navcore 8.2x et plus (IQroutes/ALG/TTS/vocalizer seulement)
+For navcore 7.8x devices and above (cspeech/ASR/TTS/vocalizer only),Pour les appareils navcore 7.8x et supérieur (cspeech/ASR/TTS/vocalizer seulement)
+For navcore 7.8x devices and above (none included),Pour les appareils navcore 7.8x et supérieur (aucun inclus)
+For navcore 7.8x devices and above (TTS only),Pour les appareils navcore 7.8x et supérieur (TTS seulement)
+For navcore 8.2x devices and above (IQroutes/ALG/TTS/vocalizer only),Pour les appareils navcore 8.2x et supérieur (IQroutes/ALG/TTS/vocalizer seulement)
 For navcore 9.x devices,Pour les appareils navcore 9.x
 For navcore 9.x devices (no ASR),Pour les appareils navcore 9.x (pas d'ASR)
-For truck navcore 9.x devices,Pour les dispositifs navcore 9.x de camion
+For truck navcore 9.x devices,Pour les appareils de type Camion navcore 9.x
 For NAV3 and navcore 9.x devices,Pour les appareils NAV3 et navcore 9.x
 For Mazda NB1 and navcore 9.x devices,Pour les appareils Mazda NB1 et navcore 9.x
 For NAV3 and navcore 9.x devices (no ASR),Pour les appareils NAV3 et navcore 9.x (pas d'ASR)
@@ -89,7 +89,7 @@ Please close TTActivator and then extract/replace the old version.","TTActivator
 {0}
 
 Veuillez fermer TTActivator, puis extraire/remplacer l'ancienne version."
-QuickGPSFix Expiry: ,Expiration QuickGPSFix: 
+"QuickGPSFix Expiry: ","Expiration QuickGPSFix: "
 GPS Chipset,Chipset GPS
 Activated,Activé
 Not Activated,Non activé
@@ -103,7 +103,7 @@ QuickGPSFix files updated successfully!,Fichiers QuickGPSFix mis à jour avec su
 
 {0}"
 Update QuickGPSFix,Mise à jour QuickGPSFix
-The meta code specified for this content {0}is not correct.,Le code méta spécifié pour ce contenu {0}n'est pas correct.
+The meta code specified for this content {0}is not correct.,Le code Meta spécifié pour ce contenu {0}n'est pas correct.
 "An error occurred while activating '{0}':
 
 {1}","Une erreur s'est produite lors de l'activation de '{0}':
@@ -128,29 +128,29 @@ An unknown error occurred while updating meta.,Une erreur inconnue s'est produit
 
 Also, remember to go to 'Installed Content' and activate the new map.","
 
-Aussi, n'oubliez pas d'aller à 'Contenu installé' et activer la nouvelle carte."
-"Obtaining links for selected map, please wait...","Obtenir des liens pour la carte sélectionnée, s'il vous plaît attendre..."
+Pensez aussi à aller à 'Contenu installé' et activer la nouvelle carte."
+"Obtaining links for selected map, please wait...","Récupération des liens pour la carte sélectionnée, patientez s'il vous plaît..."
 An error occurred while downloading the selected map. Ensure you are connected to the internet and that the map configuration you have chosen is valid.,Une erreur s'est produite lors du téléchargement de la carte sélectionnée. Assurez-vous d'être connecté à Internet et que la configuration de la carte que vous avez choisie est valide.
-{0} v{1} ({2}) requires {3} of space. {4}. Do you wish to continue?,{0} v{1} ({2}) a besoin {3} d'espace. Tu veux continuer?
-"Also, this map currently does not have a meta code available and cannot be activated in TTActivator","En outre, cette carte n'a actuellement pas de code méta disponible et ne peut pas être activée dans TTActivator"
-"If you intend to activate this map, make sure a meta code for it exists","Si vous avez l'intention d'activer cette carte, assurez-vous qu'un code méta existe"
-"Also, good news, TTActivator is able to activate this map","En outre, bonnes nouvelles, TTActivator est en mesure d'activer cette carte"
+{0} v{1} ({2}) requires {3} of space. {4}. Do you wish to continue?,{0} v{1} ({2}) a besoin {3} d'espace libre. Voulez-vous continuer?
+"Also, this map currently does not have a meta code available and cannot be activated in TTActivator","De plus, cette carte n'a actuellement pas de code méta disponible et ne peut pas être activée dans TTActivator"
+"If you intend to activate this map, make sure a meta code for it exists","Si vous avez l'intention d'activer cette carte, assurez-vous qu'un code Meta existe"
+"Also, good news, TTActivator is able to activate this map","De plus, bonne nouvelle, TTActivator est capable d'activer cette carte"
 "Map has been successfully downloaded:
 
 ","La carte a été téléchargée avec succès:
 
 "
 Map has been successfully downloaded: {0}{1},La carte a été téléchargée avec succès: {0}{1}
-"Extracting, please wait...","Extrait, s'il vous plaît attendre..."
+"Extracting, please wait...","Extraction, patientez s'il vous plaît..."
 Downloading,Téléchargement
 "TTActivator was unable to recognise the following maps, they may require manual installation of safety cameras:
- - {0}","TTActivator n'a pas été en mesure de reconnaître les cartes suivantes, ils peuvent nécessiter l'installation manuelle de caméras de sécurité:
+ - {0}","TTActivator n'a pas été en mesure de reconnaître les cartes suivantes, elles peuvent nécessiter l'installation manuelle de caméras de sécurité:
  - {0}"
 An error occurred while downloading the safety cameras: {0},Une erreur s'est produite lors du téléchargement des caméras de sécurité: {0}
 All safety cameras have been successfully installed and activated.,Toutes les caméras de sécurité ont été installées et activées avec succès.
 "Safety cameras have been downloaded, please manually extract the files to the matching map folders and activate using TTActivator.
 
-","Caméras de sécurité ont été téléchargés, s'il vous plaît extraire manuellement les fichiers dans les dossiers de carte correspondant et activer à l'aide de TTActivator.
+","Les caméras de sécurité ont été téléchargées, installez manuellement les fichiers dans les dossiers correspondants aux cartes et les activer à l'aide de TTActivator.
 
 "
 Select the folder for the TT device:,Sélectionnez le dossier pour l'appareil TT:
@@ -161,14 +161,14 @@ An error occurred while downloading or installing the postcode files.,Une erreur
 RDS-TMC configuration installed successfully!,Configuration RDS-TMC installée avec succès!
 An error occurred while saving the RDS-TMC configuration.,Une erreur s'est produite lors de l'enregistrement de la configuration RDS-TMC.
 RDS-TMC configuration saved successfully!,La configuration RDS-TMC a été sauvée avec succès!
-{0} item(s) available for activation.,{0} élément(s) sont disponible pour l'activation.
-Can't be activated because blowfish/meta is code missing.,Ne peut pas être activé parce que le blowfish / meta est le code manquant.
-Equivalent Meta Available,Équivalent meta disponible
+{0} item(s) available for activation.,{0} élément(s) disponible(s) pour l'activation.
+Can't be activated because blowfish/meta is code missing.,Ne peut pas être activé parce que le code blowfish / Meta est manquant.
+Equivalent Meta Available,Équivalent Meta disponible
 Unable to obtain the latest QuickGPSFix files from the TomTom server.,Impossible d'obtenir les derniers fichiers QuickGPSFix du serveur TomTom.
 QuickGPSFix files have installed successfully!,Les fichiers QuickGPSfix ont été installés avec succès!
-Select a folder to download the safety cameras to:,Sélectionnez un dossier dans lequel télécharger les radars:
-All safety cameras have been successfully downloaded.,Tous les radars ont été téléchargés avec succès.
-Your device has an unsupported navcore version. You must have one of the following versions installed:,Votre appareil a une version navcore non prise en charge. Vous devez avoir l'une des versions suivantes installées:
+Select a folder to download the safety cameras to:,Sélectionnez un dossier dans lequel télécharger les caméras de sécurité:
+All safety cameras have been successfully downloaded.,Toutes les caméras de sécurité ont été téléchargées avec succès.
+Your device has an unsupported navcore version. You must have one of the following versions installed:,Votre appareil a une version navcore non prise en charge. Vous devez avoir l'une des versions suivantes installée:
 "Connecting to device, please wait...","Connexion à l'appareil, patientez s'il vous plaît..."
 Could not establish a connection to the device. Make sure that it is connected to your PC.,Impossible d'établir une connexion à l'appareil. Assurez-vous qu'il est connecté à votre PC.
 The following processes are connected to the device. Please close them before continuing:,Les progammes suivants sont connectés à l'appareil. Veuillez svp les fermer avant de poursuivre:
@@ -194,16 +194,17 @@ The patch has been removed from the device.,Le patch a été retiré de l'appare
 The maps have been removed from the device's internal memory.,Les cartes de la mémoire interne de l'appareil ont été supprimées.
 The map kind/generation you have selected is not compatible with this device.,Le type/génération de carte que vous avez sélectionné n'est pas compatible avec cet appareil.
 The map has been successfully installed to the device.,La carte a été installée avec succès sur l'appareil.
-The temporary files for this map are still present on the machine. Do you want to keep them to attempt re-installation later?,Les fichiers temporaires de cette carte sont toujours présents sur la machine. Est-ce que vous voulez les garder pour tenter une réinstallation ultérieure?
+The temporary files for this map are still present on the machine. Do you want to keep them to attempt re-installation later?,Les fichiers temporaires de cette carte sont toujours présents sur la machine. Voulez-vous les conserver pour tenter une réinstallation ultérieure?
 This will delete all maps stored in your device's internal memory along with the navcore patch. You will need to reapply the patch again afterwards. Are you sure you wish to continue?,Ceci supprimera toutes les cartes stockées dans la mémoire interne de l'appareil ainsi que le patch navcore. Vous devrez ensuite installer de nouveau le patch. Êtes-vous sûr de vouloir continuer?
 All safety cameras have been successfully installed.,Toutes les caméras de sécurité ont été installées avec succès.
-Remember to upload the latest meta and then reboot your device from the 'NAV3 Tools' menu to automatically activate the map.,Pensez à télécharger le dernier fichier Meta et puis redémarrez votre appareil dans le menu 'Outils NAV3' pour activer automatiquement la carte.
+Remember to upload the latest meta and then reboot your device from the 'NAV3 Tools' menu to automatically activate the map.,Pensez à télécharger le dernier fichier Meta puis redémarrez votre appareil dans le menu 'Outils NAV3' pour activer automatiquement la carte.
 Meta has been uploaded successfully to the device.,Meta a été transféré avec succès à l'appareil.
-The standard patch activates content each time the device is rebooted using a built-in keygen. All that is required is an up-to-date meta file to be uploaded to the device.,Le patch standard active le contenu à chaque fois que le dispositif est redémarré à l'aide d'un keygen intégré. Tout ce qui est nécessaire est un fichier Meta à jour pour être téléchargé sur le périphérique.
+The standard patch activates content each time the device is rebooted using a built-in keygen. All that is required is an up-to-date meta file to be uploaded to the device.,"Le patch standard active le contenu à chaque fois que le dispositif est redémarré, à l'aide d'un keygen intégré. Tout ce qui est nécessaire est un fichier Meta à jour pour être téléchargé sur l'appareil."
 "The truck patch is the same as the standard patch, but it will also unlock heavy vehicle types such as truck or bus when using a TRUCK map.","Le patch camion est le même que le patch standard, mais il permet également de débloquer les types de véhicules lourds tels que le camion ou le bus, uniquement lors de l'utilisation d'une carte de type TRUCK (Camion)."
 TTActivator could not start the local server. Please accept the 'User Account Control' prompt or run TTActivator as an administrator.,TTActivator n'a pas pu démarrer le serveur local. Veuillez accepter la boîte de dialogue «Contrôle de compte d'utilisateur» ou exécuter TTActivator en tant qu'administrateur.
 RDS-TMC Configuration,Configuration RDS-TMC
-Expired,Expired
-No safety cameras could be found from the TT server.,No safety cameras could be found from the TT server.
-This will delete all safety cameras (including licenses) from your device's internal memory. Do you wish to continue?,This will delete all safety cameras (including licenses) from your device's internal memory. Do you wish to continue?
-The safety cameras have been removed from the device's internal memory.,The safety cameras have been removed from the device's internal memory.
+Expired,Expiré
+No safety cameras could be found from the TT server.,Aucune caméra de sécurité n'a été trouvée sur le serveur TT.
+This will delete all safety cameras (including licenses) from your device's internal memory. Do you wish to continue?,Ceci supprimera toutes les caméras de sécurité (y compris les licences) de la mémoire interne de votre appareil. Voulez-vous continuer?
+The safety cameras have been removed from the device's internal memory.,Les caméras de sécurité ont été supprimées de la mémoire interne de votre appareil.
+For NAV3 and navcore 9.x devices (no cspeech),Pour les appareils NAV3 et navcore 9.x (pas de cspeech)

@@ -67,13 +67,13 @@ Standard (MSTMS):,Standard (MSTMS):
 Truck (MSTMS Truck):,Truck (MSTMS Truck):
 Install Standard Patch,Installa patch Standard
 Install Truck Patch,Installa patch Truck
-Delete Safety Cameras,Elimina autovelox
+Delete Safety Cameras,Elimina telecamera
 Map Country/Region:,Mappa nazione/regione:
 OR:,O:
-Provide details about the content you wish to extract a meta code for:,Fornire dettagli sul contenuto che si desidera estrarre un meta-codice per:
-Meta/OV2 File Name (case-sensitive):,Nome file Meta/OV2 (sensibile al maiuscolo/minuscolo):
+Provide details about the content you wish to extract a meta code for:,Dettagli sul contenuto per cui si vuole estrarre un codice meta:
+Meta/OV2 File Name (case-sensitive):,Nome file meta/OV2 (sensibile a maiuscolo/minuscolo):
 Examples:,Esempi:
-Extract Meta Code,Estrai Meta Code
+Extract Meta Code,Estrai codice meta
 For navcore 7.8x devices and above (cspeech/ASR/TTS/vocalizer only),Per dispositivi con navcore 7.8x e successivi (solo cspeech/ASR/TTS/voci)
 For navcore 7.8x devices and above (none included),Per dispositivi con navcore 7.8x e successivi (nessuna opzione)
 For navcore 7.8x devices and above (TTS only),Per dispositivi con navcore 7.8x e successivi (solo TTS)
@@ -216,4 +216,4 @@ This will delete all safety cameras (including licenses) from your device's inte
 The safety cameras have been removed from the device's internal memory.,Le telecamere di sorveglianza sono state rimosse dalla memoria interna del dispositivo.
 For NAV3 and navcore 9.x devices (no cspeech),Per dispositivi NAV3 e navcore 9.x (senza cspeech)
 The device is currently busy. Please try again in a few moments.,Il dispositivo è attualmente occupato. Riprova tra qualche istante.
-TTActivator was unable to find a meta code on the device that matched the details you provided.,TTActivator non è stato in grado di trovare un meta codice sul dispositivo che corrispondesse ai dettagli forniti.
+TTActivator was unable to find a meta code on the device that matched the details you provided.,TTActivator non è stato in grado di trovare nel dispositivo un codice meta corrispondente ai dettagli forniti.

@@ -14,7 +14,7 @@ Update QuickGPSFix,Zaktualizuj QuickGPSFix
 GPS Chipset:,GPS Chipset:
 QuickGPSFix,QuickGPSFix
 Help,Pomoc
-Auto-Extract,Automatyczne wypakowanie
+Auto-Extract,Auto-wypakowanie
 Download To Device,Pobierz na Urządzenie
 Download To Folder,Pobierz do Folderu
 Temporary Download Folder:,Folder tymczasowy dla pobieranych plików:
@@ -67,6 +67,13 @@ Standard (MSTMS):,Standard (MSTMS):
 Truck (MSTMS Truck):,Samochód ciężarowy (MSTMS Truck):
 Install Standard Patch,Zainstalować standardowy patcha
 Install Truck Patch,Zainstaluj patcha ciężarówki
+Delete Safety Cameras,Usuń fotoradary
+Map Country/Region:,Kraj/Region Mapy:
+OR:,LUB:
+Provide details about the content you wish to extract a meta code for:,"Podaj szczegółowe informacje o treści, dla której chcesz wyodrębnić meta kod:"
+Meta/OV2 File Name (case-sensitive):,Nazwa pliku Meta/OV2 (wielkość liter ma znaczenie):
+Examples:,Przykłady:
+Extract Meta Code,Wyodrębnij kod meta
 For navcore 7.8x devices and above (cspeech/ASR/TTS/vocalizer only),Dla urządzeń z navcore 7.8x i wyższym (tylko cspeech/ASR/TTS/vocalizer)
 For navcore 7.8x devices and above (none included),Dla urządzeń z navcore 7.8x i wyższym (nic nie zawiera)
 For navcore 7.8x devices and above (TTS only),Dla urządzeń z navcore 7.8x i wyższym (tylko TTS)
@@ -208,3 +215,5 @@ No safety cameras could be found from the TT server.,Nie znaleziono fotoradarów
 This will delete all safety cameras (including licenses) from your device's internal memory. Do you wish to continue?,Spowoduje to usunięcie wszystkich fotoradarów (w tym licencji) z pamięci wewnętrznej urządzenia. Czy chcesz kontynuować?
 The safety cameras have been removed from the device's internal memory.,Fotoradary zostały usunięte z wewnętrznej pamięci urządzenia.
 For NAV3 and navcore 9.x devices (no cspeech),Dla urządzeń NAV3 oraz z navcore 9.x (brak cspeech)
+The device is currently busy. Please try again in a few moments.,Urządzenie jest obecnie zajęte. Spróbuj ponownie za chwilę.
+TTActivator was unable to find a meta code on the device that matched the details you provided.,"TTActivator nie mógł znaleźć meta kodu na urządzeniu, który pasowałby do podanych przez Ciebie szczegółów."

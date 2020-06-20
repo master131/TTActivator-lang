@@ -67,6 +67,13 @@ Standard (MSTMS):,Standardno (MSTMS):
 Truck (MSTMS Truck):,Tovornjak (MSTMS Truck):
 Install Standard Patch,Namestite standardna popravek
 Install Truck Patch,Namestite tovornjak popravek
+Delete Safety Cameras,Izbrišite varnostne kamere
+Map Country/Region:,Zemljevid Države/Regije:
+OR:,ALI:
+Provide details about the content you wish to extract a meta code for:,"Navedite podrobnosti o vsebini, za katero želite izvleči meta kodo:"
+Meta/OV2 File Name (case-sensitive):,Ime datoteke Meta/OV2 (odvisno od začetka):
+Examples:,Primeri:
+Extract Meta Code,Izvleček meta kode
 For navcore 7.8x devices and above (cspeech/ASR/TTS/vocalizer only),Za naprave z navcorom 7.8x ali višje (cspeech/ASR/TTS/vokalizator)
 For navcore 7.8x devices and above (none included),Za naprave z navcorom 7.8x ali višje (ničesar vključeno)
 For navcore 7.8x devices and above (TTS only),Za naprave z navcorom 7.8x ali višje (samo TTS)
@@ -208,3 +215,5 @@ No safety cameras could be found from the TT server.,Na TT strežniku ni bilo mo
 This will delete all safety cameras (including licenses) from your device's internal memory. Do you wish to continue?,S tem bodo izbrisane vse varnostne kamere (vključno z licencami) iz notranjega pomnilnika vaše naprave. Ali želite nadaljevati?
 The safety cameras have been removed from the device's internal memory.,Varnostne kamere so bile odstranjene iz notranjega pomnilnika naprave.
 For NAV3 and navcore 9.x devices (no cspeech),Za naprave NAV3 in navcore 9.x (brez cspeech-a)
+The device is currently busy. Please try again in a few moments.,Naprava je trenutno zasedena. Poskusite znova čez nekaj trenutkov.
+TTActivator was unable to find a meta code on the device that matched the details you provided.,"TTActivator ni uspel najti meta kode na napravi, ki bi se ujemala s podrobnostmi, ki ste jih navedli."

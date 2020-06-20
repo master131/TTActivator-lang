@@ -67,6 +67,13 @@ Standard (MSTMS):,Standard (MSTMS):
 Truck (MSTMS Truck):,Camion (MSTMS):
 Install Standard Patch,Installer le patch standard
 Install Truck Patch,Installer le patch camion
+Delete Safety Cameras,Supprimer les caméras de sécurité
+Map Country/Region:,Carte Pays/Région:
+OR:,OU:
+Provide details about the content you wish to extract a meta code for:,Fournissez des détails sur le contenu pour lequel vous souhaitez extraire un méta-code:
+Meta/OV2 File Name (case-sensitive):,Nom de fichier Meta/OV2 (sensible à la casse):
+Examples:,Exemples:
+Extract Meta Code,Extraire le méta-code
 For navcore 7.8x devices and above (cspeech/ASR/TTS/vocalizer only),Pour les appareils navcore 7.8x et supérieur (cspeech/ASR/TTS/vocalizer seulement)
 For navcore 7.8x devices and above (none included),Pour les appareils navcore 7.8x et supérieur (aucun inclus)
 For navcore 7.8x devices and above (TTS only),Pour les appareils navcore 7.8x et supérieur (TTS seulement)
@@ -208,3 +215,5 @@ No safety cameras could be found from the TT server.,Aucune caméra de sécurit�
 This will delete all safety cameras (including licenses) from your device's internal memory. Do you wish to continue?,Ceci supprimera toutes les caméras de sécurité (y compris les licences) de la mémoire interne de votre appareil. Voulez-vous continuer?
 The safety cameras have been removed from the device's internal memory.,Les caméras de sécurité ont été supprimées de la mémoire interne de votre appareil.
 For NAV3 and navcore 9.x devices (no cspeech),Pour les appareils NAV3 et navcore 9.x (pas de cspeech)
+The device is currently busy. Please try again in a few moments.,L'appareil est actuellement occupé. Merci de réessayer dans quelques instants.
+TTActivator was unable to find a meta code on the device that matched the details you provided.,TTActivator n'a pas pu trouver sur le périphérique un méta-code correspondant aux détails que vous avez fournis.

@@ -67,17 +67,24 @@ Standard (MSTMS):,Standard (MSTMS):
 Truck (MSTMS Truck):,Truck (MSTMS Truck):
 Install Standard Patch,Installa patch Standard
 Install Truck Patch,Installa patch Truck
+Delete Safety Cameras,Elimina autovelox
+Map Country/Region:,Mappa nazione/regione:
+OR:,O:
+Provide details about the content you wish to extract a meta code for:,Fornire dettagli sul contenuto che si desidera estrarre un meta-codice per:
+Meta/OV2 File Name (case-sensitive):,Nome file Meta/OV2 (sensibile al maiuscolo/minuscolo):
+Examples:,Esempi:
+Extract Meta Code,Estrai Meta Code
 For navcore 7.8x devices and above (cspeech/ASR/TTS/vocalizer only),Per dispositivi con navcore 7.8x e successivi (solo cspeech/ASR/TTS/voci)
 For navcore 7.8x devices and above (none included),Per dispositivi con navcore 7.8x e successivi (nessuna opzione)
 For navcore 7.8x devices and above (TTS only),Per dispositivi con navcore 7.8x e successivi (solo TTS)
 For navcore 8.2x devices and above (IQroutes/ALG/TTS/vocalizer only),Per dispositivi con navcore 8.2.x e successivi (solo IQroutes/ALG/TTS/voci)
 For navcore 9.x devices,Per dispositivi con navcore 9.x
-For navcore 9.x devices (no ASR),Per dispositivi con navcore 9.x (no ASR)
+For navcore 9.x devices (no ASR),Per dispositivi con navcore 9.x (senza ASR)
 For truck navcore 9.x devices,Per dispositivi con navcore 9.x Truck
 For NAV3 and navcore 9.x devices,Per dispositivi NAV3 e navcore 9.x
 For Mazda NB1 and navcore 9.x devices,Per dispositivi Mazda NB1 e navcore 9.x
-For NAV3 and navcore 9.x devices (no ASR),Per dispositivi NAV3 e navcore 9.x (no ASR)
-For Renault R-Link and navcore 9.x devices,Per dispositivi R-LINk e navcore 9.x
+For NAV3 and navcore 9.x devices (no ASR),Per dispositivi NAV3 e navcore 9.x (senza ASR)
+For Renault R-Link and navcore 9.x devices,Per dispositivi R-Link e navcore 9.x
 "A new version of TTActivator ({0}) is available, would you like to update now?",È disponibile una nuova versione ({0}) di TTActivator. Vuoi aggiornare ora TTActivator?
 "An error occurred while downloading the update:
 {0}","Si è verificato un errore durante il download dell'aggiornamento:
@@ -207,4 +214,6 @@ Expired,Scaduto
 No safety cameras could be found from the TT server.,Nessuna telecamera di sorveglianza trovata nel server TomTom.
 This will delete all safety cameras (including licenses) from your device's internal memory. Do you wish to continue?,Ciò eliminerà tutte le telecamere di sorveglianza (comprese le licenze) dalla memoria interna del dispositivo. Vuoi continuare?
 The safety cameras have been removed from the device's internal memory.,Le telecamere di sorveglianza sono state rimosse dalla memoria interna del dispositivo.
-For NAV3 and navcore 9.x devices (no cspeech),For dispositivi NAV3 o con navcore 9.x (senza cspeech)
+For NAV3 and navcore 9.x devices (no cspeech),Per dispositivi NAV3 e navcore 9.x (senza cspeech)
+The device is currently busy. Please try again in a few moments.,Il dispositivo è attualmente occupato. Riprova tra qualche istante.
+TTActivator was unable to find a meta code on the device that matched the details you provided.,TTActivator non è stato in grado di trovare un meta codice sul dispositivo che corrispondesse ai dettagli forniti.

@@ -1,5 +1,5 @@
 ﻿Browse,Suchen
-Refresh,"Erfrischen "
+Refresh,Erfrischen
 Activate,Activieren
 File Name,Dateiname
 Content Name,Inhaltsname
@@ -67,6 +67,13 @@ Standard (MSTMS):,Standard (MSTMS):
 Truck (MSTMS Truck):,LKW (MSTMS Truck):
 Install Standard Patch,Installieren Sie den Standard-Patch
 Install Truck Patch,LKW-Patch installieren
+Delete Safety Cameras,Sicherheitskameras löschen
+Map Country/Region:,Karte Land/Region:
+OR:,ODER:
+Provide details about the content you wish to extract a meta code for:,"Geben Sie Details zu dem Inhalt an, für den Sie einen Metacode extrahieren möchten:"
+Meta/OV2 File Name (case-sensitive):,Meta/OV2-Dateiname (Groß- und Kleinschreibung beachten):
+Examples:,Beispiele:
+Extract Meta Code,Meta-Code extrahieren
 For navcore 7.8x devices and above (cspeech/ASR/TTS/vocalizer only),Für navcore 7.8x Geräte und höher (nur cspeech/ASR/TTS/vocalizer)
 For navcore 7.8x devices and above (none included),Für navcore 7.8x Geräte und höher (keine enthalten)
 For navcore 7.8x devices and above (TTS only),Für navcore 7.8x Geräte und höher (nur TTS)
@@ -208,3 +215,5 @@ No safety cameras could be found from the TT server.,Es konnten keine Blitzer au
 This will delete all safety cameras (including licenses) from your device's internal memory. Do you wish to continue?,Dies wird alle Blitzer (und Freischaltcodes) vom internen Speicher löschen. Willst Du fortfahren?
 The safety cameras have been removed from the device's internal memory.,Die Blitzer wurden vom internen Speicher gelöscht.
 For NAV3 and navcore 9.x devices (no cspeech),Für navcore 9.x Geräte (kein cspeech)
+The device is currently busy. Please try again in a few moments.,Das Gerät ist derzeit beschäftigt. Bitte versuchen Sie es in wenigen Augenblicken erneut.
+TTActivator was unable to find a meta code on the device that matched the details you provided.,"TTActivator konnte auf dem Gerät keinen Metacode finden, der mit den von Ihnen angegebenen Details übereinstimmt."

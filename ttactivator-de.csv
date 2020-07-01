@@ -69,8 +69,8 @@ Install Standard Patch,Installieren Sie den Standard-Patch
 Install Truck Patch,LKW-Patch installieren
 Delete Safety Cameras,Sicherheitskameras löschen
 Map Country/Region:,Karte Land/Region:
-OR:,ODER:
-Provide details about the content you wish to extract a meta code for:,"Geben Sie Details zu dem Inhalt an, für den Sie einen Metacode extrahieren möchten:"
+OR:,Oder:
+Provide details about the content you wish to extract a meta code for:,"Gib Details zu dem Inhalt an, für den Du einen Metacode extrahieren möchtest:"
 Meta/OV2 File Name (case-sensitive):,Meta/OV2-Dateiname (Groß- und Kleinschreibung beachten):
 Examples:,Beispiele:
 Extract Meta Code,Meta-Code extrahieren
@@ -215,5 +215,8 @@ No safety cameras could be found from the TT server.,Es konnten keine Blitzer au
 This will delete all safety cameras (including licenses) from your device's internal memory. Do you wish to continue?,Dies wird alle Blitzer (und Freischaltcodes) vom internen Speicher löschen. Willst Du fortfahren?
 The safety cameras have been removed from the device's internal memory.,Die Blitzer wurden vom internen Speicher gelöscht.
 For NAV3 and navcore 9.x devices (no cspeech),Für navcore 9.x Geräte (kein cspeech)
-The device is currently busy. Please try again in a few moments.,Das Gerät ist derzeit beschäftigt. Bitte versuchen Sie es in wenigen Augenblicken erneut.
-TTActivator was unable to find a meta code on the device that matched the details you provided.,"TTActivator konnte auf dem Gerät keinen Metacode finden, der mit den von Ihnen angegebenen Details übereinstimmt."
+The device is currently busy. Please try again in a few moments.,Das Gerät ist derzeit beschäftigt. Bitte versuche es in wenigen Augenblicken erneut.
+TTActivator was unable to find a meta code on the device that matched the details you provided.,"TTActivator konnte auf dem Gerät keinen Metacode finden, der mit den von Dir angegebenen Details übereinstimmt."
+Could not detect the navcore version from the device because it is in rescue mode. Please reboot your device and try again.,Could not detect the navcore version from the device because it is in rescue mode. Please reboot your device and try again.
+It is not possible to install more than 1 package file when the device is in rescue mode.,It is not possible to install more than 1 package file when the device is in rescue mode.
+Could not detect the navcore version from the device. Please click 'Refresh' and try again.,Could not detect the navcore version from the device. Please click 'Refresh' and try again.

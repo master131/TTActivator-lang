@@ -69,7 +69,7 @@ Install Standard Patch,Zainstalować standardowy patcha
 Install Truck Patch,Zainstaluj patcha ciężarówki
 Delete Safety Cameras,Usuń fotoradary
 Map Country/Region:,Kraj/Region Mapy:
-OR:,LUB:
+OR:,Lub:
 Provide details about the content you wish to extract a meta code for:,"Podaj szczegółowe informacje o treści, dla której chcesz wyodrębnić meta kod:"
 Meta/OV2 File Name (case-sensitive):,Nazwa pliku Meta/OV2 (wielkość liter ma znaczenie):
 Examples:,Przykłady:
@@ -217,3 +217,6 @@ The safety cameras have been removed from the device's internal memory.,Fotorada
 For NAV3 and navcore 9.x devices (no cspeech),Dla urządzeń NAV3 oraz z navcore 9.x (brak cspeech)
 The device is currently busy. Please try again in a few moments.,Urządzenie jest obecnie zajęte. Spróbuj ponownie za chwilę.
 TTActivator was unable to find a meta code on the device that matched the details you provided.,"TTActivator nie mógł znaleźć meta kodu na urządzeniu, który pasowałby do podanych przez Ciebie szczegółów."
+Could not detect the navcore version from the device because it is in rescue mode. Please reboot your device and try again.,"Nie można wykryć wersji navcore z urządzenia, ponieważ jest ono w trybie ratunkowym. Uruchom ponownie urządzenie i spróbuj ponownie."
+It is not possible to install more than 1 package file when the device is in rescue mode.,"Nie można zainstalować więcej niż 1 pliku pakietu, gdy urządzenie znajduje się w trybie ratunkowym."
+Could not detect the navcore version from the device. Please click 'Refresh' and try again.,Nie można wykryć wersji navcore z urządzenia. Kliknij „Odśwież” i spróbuj ponownie.

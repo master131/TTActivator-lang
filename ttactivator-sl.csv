@@ -69,7 +69,7 @@ Install Standard Patch,Namestite standardna popravek
 Install Truck Patch,Namestite tovornjak popravek
 Delete Safety Cameras,Izbrišite varnostne kamere
 Map Country/Region:,Zemljevid Države/Regije:
-OR:,ALI:
+OR:,Ali:
 Provide details about the content you wish to extract a meta code for:,"Navedite podrobnosti o vsebini, za katero želite izvleči meta kodo:"
 Meta/OV2 File Name (case-sensitive):,Ime datoteke Meta/OV2 (odvisno od začetka):
 Examples:,Primeri:
@@ -217,3 +217,6 @@ The safety cameras have been removed from the device's internal memory.,Varnostn
 For NAV3 and navcore 9.x devices (no cspeech),Za naprave NAV3 in navcore 9.x (brez cspeech-a)
 The device is currently busy. Please try again in a few moments.,Naprava je trenutno zasedena. Poskusite znova čez nekaj trenutkov.
 TTActivator was unable to find a meta code on the device that matched the details you provided.,"TTActivator ni uspel najti meta kode na napravi, ki bi se ujemala s podrobnostmi, ki ste jih navedli."
+Could not detect the navcore version from the device because it is in rescue mode. Please reboot your device and try again.,Could not detect the navcore version from the device because it is in rescue mode. Please reboot your device and try again.
+It is not possible to install more than 1 package file when the device is in rescue mode.,It is not possible to install more than 1 package file when the device is in rescue mode.
+Could not detect the navcore version from the device. Please click 'Refresh' and try again.,Could not detect the navcore version from the device. Please click 'Refresh' and try again.

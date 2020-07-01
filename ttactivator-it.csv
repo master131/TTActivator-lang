@@ -67,7 +67,7 @@ Standard (MSTMS):,Standard (MSTMS):
 Truck (MSTMS Truck):,Truck (MSTMS Truck):
 Install Standard Patch,Installa patch Standard
 Install Truck Patch,Installa patch Truck
-Delete Safety Cameras,Elimina telecamera
+Delete Safety Cameras,Elimina telecamere
 Map Country/Region:,Mappa nazione/regione:
 OR:,O:
 Provide details about the content you wish to extract a meta code for:,Dettagli sul contenuto per cui si vuole estrarre un codice meta:
@@ -203,7 +203,7 @@ The map kind/generation you have selected is not compatible with this device.,La
 The map has been successfully installed to the device.,Installazione mappa nel dispositivo completata.
 The temporary files for this map are still present on the machine. Do you want to keep them to attempt re-installation later?,I file temporanei per questa mappa sono ancora presenti nel computer. Vuoi tenerli per tentare una nuova installazione in seguito?
 This will delete all maps stored in your device's internal memory along with the navcore patch. You will need to reapply the patch again afterwards. Are you sure you wish to continue?,Questo cancellerà tutte le mappe memorizzate nella memoria interna del dispositivo insieme con la patch navcore. Sarà necessario riapplicare la patch di nuovo in seguito. Sei sicuro di voler continuare?
-All safety cameras have been successfully installed.,Tutti i file autovelox sono stati installati correttamente.
+All safety cameras have been successfully installed.,Tutti i file telecamere sono stati installati correttamente.
 Remember to upload the latest meta and then reboot your device from the 'NAV3 Tools' menu to automatically activate the map.,Per attivare automaticamente la mappa ricorda di caricare il file meta aggiornato e quindi riavviare il dispositivo dal menu 'Strumenti NAV3'.
 Meta has been uploaded successfully to the device.,Caricamento file meta nel dispositivo completato.
 The standard patch activates content each time the device is rebooted using a built-in keygen. All that is required is an up-to-date meta file to be uploaded to the device.,La patch 'Standard' attiva il contenuto ogni volta che il dispositivo viene riavviato mediante un generatore di chiave incorporato. Tutto ciò che serve è una file meta aggiornato e caricato nel dispositivo.
@@ -217,3 +217,6 @@ The safety cameras have been removed from the device's internal memory.,Le telec
 For NAV3 and navcore 9.x devices (no cspeech),Per dispositivi NAV3 e navcore 9.x (senza cspeech)
 The device is currently busy. Please try again in a few moments.,Il dispositivo è attualmente occupato. Riprova tra qualche istante.
 TTActivator was unable to find a meta code on the device that matched the details you provided.,TTActivator non è stato in grado di trovare nel dispositivo un codice meta corrispondente ai dettagli forniti.
+Could not detect the navcore version from the device because it is in rescue mode. Please reboot your device and try again.,Could not detect the navcore version from the device because it is in rescue mode. Please reboot your device and try again.
+It is not possible to install more than 1 package file when the device is in rescue mode.,It is not possible to install more than 1 package file when the device is in rescue mode.
+Could not detect the navcore version from the device. Please click 'Refresh' and try again.,Could not detect the navcore version from the device. Please click 'Refresh' and try again.

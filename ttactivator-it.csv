@@ -217,6 +217,6 @@ The safety cameras have been removed from the device's internal memory.,Le telec
 For NAV3 and navcore 9.x devices (no cspeech),Per dispositivi NAV3 e navcore 9.x (senza cspeech)
 The device is currently busy. Please try again in a few moments.,Il dispositivo è attualmente occupato. Riprova tra qualche istante.
 TTActivator was unable to find a meta code on the device that matched the details you provided.,TTActivator non è stato in grado di trovare nel dispositivo un codice meta corrispondente ai dettagli forniti.
-Could not detect the navcore version from the device because it is in rescue mode. Please reboot your device and try again.,Could not detect the navcore version from the device because it is in rescue mode. Please reboot your device and try again.
-It is not possible to install more than 1 package file when the device is in rescue mode.,It is not possible to install more than 1 package file when the device is in rescue mode.
-Could not detect the navcore version from the device. Please click 'Refresh' and try again.,Could not detect the navcore version from the device. Please click 'Refresh' and try again.
+Could not detect the navcore version from the device because it is in rescue mode. Please reboot your device and try again.,Impossibile rilevare la versione navcore nel dispositivo poiché è in modo ripristino. Riavvia il dispositivo e riprova.
+It is not possible to install more than 1 package file when the device is in rescue mode.,Quando il dispositivo è in modo ripristino non è possibile installare più di un file pacchetto.
+Could not detect the navcore version from the device. Please click 'Refresh' and try again.,Impossibile rilevare la versione navcore nel dispositivo. Fai clic su 'Aggiorna' e riprova.

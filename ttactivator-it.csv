@@ -1,4 +1,4 @@
-﻿Browse,Sfoglia
+Browse,Sfoglia
 Refresh,Aggiorna
 Activate,Attiva
 File Name,Nome file
@@ -21,7 +21,7 @@ Temporary Download Folder:,Cartella temporanea:
 "Map Country/Region (select from list or enter manually, case-sensitive):","Mappa nazione/regione (seleziona da elenco o manualmente, attenzione a maiuscole/minuscole):"
 Map Version:,Versione mappa:
 Map Kind/Generation:,Tipo/generazione mappa:
-Map Downloader,Mappe
+Map Downloader,Download mappe
 Manual Install,Installazione manuale
 Easy/Automatic Install,Installazione facilitata/automatica
 Special thanks to the Maverick,Un grazie speciale a Maverick
@@ -96,7 +96,7 @@ Please close TTActivator and then extract/replace the old version.","TTActivator
 {0}
 
 Chiudi TTActivator ed estrai/sostituisci i file della vecchia versione."
-"QuickGPSFix Expiry: ","Scadenza QuickGPSFix: "
+QuickGPSFix Expiry: ,Scadenza QuickGPSFix: 
 GPS Chipset,Chipset GPS
 Activated,Attivato
 Not Activated,Non attivato/a
@@ -142,7 +142,7 @@ An error occurred while downloading the selected map. Ensure you are connected t
 Assicurati di essere connesso ad internet e che la configurazione della mappa sia valida."
 {0} v{1} ({2}) requires {3} of space. {4}. Do you wish to continue?,{0} v{1} ({2}) richiede {3} di spazio libero. {4}. Vuoi continuare?
 "Also, this map currently does not have a meta code available and cannot be activated in TTActivator",Questa mappa non ha attualmente un codice meta disponibile e non può essere attivata in TTActivator
-"If you intend to activate this map, make sure a meta code for it exists",Se vuoi atttivare questa mappa assicurati che esista il corrispondente codice meta
+"If you intend to activate this map, make sure a meta code for it exists",Se vuoi attivare questa mappa assicurati che esista il corrispondente codice meta
 "Also, good news, TTActivator is able to activate this map",Buone notizie. TTActivator può attivare questa mappa
 "Map has been successfully downloaded:
 
@@ -173,8 +173,8 @@ Can't be activated because blowfish/meta is code missing.,Attivazione non possib
 Equivalent Meta Available,Meta equivalente disponibile
 Unable to obtain the latest QuickGPSFix files from the TomTom server.,Impossibile ottenere i file QuickGPSFix più recenti dal server TomTom.
 QuickGPSFix files have installed successfully!,Installazione file QuickGPSfix completata!
-Select a folder to download the safety cameras to:,Seleziona cartella in cui scaricare le telecanere sorveglianza:
-All safety cameras have been successfully downloaded.,Downlaod completato di tutte le telecamere di sorveglianza.
+Select a folder to download the safety cameras to:,Seleziona cartella in cui scaricare le telecamere sorveglianza:
+All safety cameras have been successfully downloaded.,Download completato di tutte le telecamere di sorveglianza.
 Your device has an unsupported navcore version. You must have one of the following versions installed:,Il dispositivo dispone di una versione navcore non supportata. È necessario disporre di una delle seguenti versioni installate:
 "Connecting to device, please wait...",Connessione al dispositivo...
 Could not establish a connection to the device. Make sure that it is connected to your PC.,Impossibile stabilire una connessione con il dispositivo. Assicurati che sia collegato al PC.
